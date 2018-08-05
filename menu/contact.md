@@ -3,9 +3,14 @@ layout: page
 title: Contact
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ORC-ID = 0000-0003-2118-4788
+
+If you are interested in hearing more about any of my research, or think that you may want to collaborate on a future or current project do not hesitate to contact me ([jluong4@ucsc.edu](mailto:jluong4@ucsc.edu))
+
+[UC Santa Cruz Page](https://campusdirectory.ucsc.edu/cd_detail?uid=jluong4)
+
+[ResearchGate Profile](https://www.researchgate.net/profile/Justin_Luong)
+
+[Loik Lab](http://www.theloiklaboratory.net)
+
+[Holl Lab](http://www.holl-lab.com/store/c1/Featured_Products.html)

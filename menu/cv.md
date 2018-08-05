@@ -3,74 +3,89 @@ layout: page
 title: Curriculum Vitae
 ---
 
-## Education
+## Academic History
 ---------
+Doctor of Philosophy in Environmental Studies, 2017-2022  
+University of California Santa Cruz, CA  
+Research Focus: Novel strategies for understanding restoration outcomes facing climate change  
+Advisors: Michael Loik, Karen Holl
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Bachelor of Science in Environmental Studies, 2010-2014  
+University of California, Santa Barbara, CA  
+Focus: Restoration Ecology
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-## Experience
+## Ongoing Research Projects
 ----------
+**Functional Traits and Grassland Restoration**
 
-**Your Most Recent Work Experience:**
+* Exploring the effect of drought related functional traits in explaining restoration outcomes in the context of drought
+* Restoration experiment in the context of the International Drought Experiment
+* Enormous amounts of money are spent on restoration annually, however, restoration outcomes are still unpredictable and often poorly understood
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**Does Stipa pulchra (Poaceae) exhibit local adaptation?**
 
-* First item
+* Collaborative project with Maddie Nolan (UCSB) and Justin Valliere (UCLA)
+* Compares whether Stipa pulchra (purple needle grass), a commonly used grassland species in restoration, exhibits local adaptation based on seed provenance
+* Compares survival, reproductive potential and a functional trait of 7 localities of seeds at 3 different gardens along a latitudinal gradient
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
-**That Other Job You Had**
+**The effects of grassland restoration on Lady Beetle (Coleoptera: Coccinellidae) community assemblages**
 
-Also with a short description.
+* Restoration often touts that it is multi-purposed and positively affects the biodiversity at multiple trophic levels however, little work is done on understanding how insect communities may change after restoration
+* We targeted Coccinellids due their importance economically due to agricultural production and because there are known species within the family that are known to be invasive
+* Collections are targeted at restored, non-restored and remnant sites that were used as restoration reference sites 
 
-## Technical Experience
+
+**The long-term influence of microhabitat factors in establishing the endangered Nipomo Lupine (Fabaceae: Lupinus nipomensis)**
+
+* Studies have found that a majority of rare and endangered plant establishment efforts have failed due to an incomplete knowledge base of habitat preferences.
+* An outplanting experiment was started in 2015 using 2880 Nipomo Lupine seeds in a variety of microhabitats
+* Long-term monitoring is taking place to determine the role of microhabitats in sustainable establishment of endangered species as ecological trends are often not visible for several years
+* Factors include abiotic conditions and some potential biotic interactions
+
+## Teaching Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Environmental Studies  
+University of California Santa Cruz, 2018 - Present  
+Position: Teaching Assistant  
+Courses:
+* Environmental Earth Systems (ENVS 23) – 1 quarter
+* Environmental Senior Capstone (ENVS 190) – 1 quarter
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Biology: Ecology and Evolution  
+University of California Santa Cruz, 2018  
+Position: Teaching Assistant  
+Courses:
+* Ecology and Evolution (BIOE 20C) – 1 quarter
 
-<br />Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+The Cheadle Center of Biodiversity and Ecological Restoration  
+UC Santa Barbara, 2015-2017  
+1) Position: Field Restoration Ecologist and Coordinator  
+Teaching Goals: 1. Demonstrate the application of ecological concepts in the field and real world applicability and 2. Teach natural history of coastal ecosystem flora and fauna
 
-<br />Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+## Awards and Grants
+--------------------
+David Gaines Award  
+Winter 2018
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+UC Regents Fellowship  
+Fall 2017, Winter 2018
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+California Native Plant Society, San Luis Obispo Rare Plant Fund, 2017  
+“4th Year Assessment of the endangered Lupinus nipomensis restoration”
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Minor Grant, the Coastal Fund, 2016  
+“Assessing soil characteristics of Lupinus nipomensis outplanting”
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Minor Grant, the Coastal Fund, 2013  
+“Assessing soil characteristics of historic coastal sage scrub with different regimes”
+
+Minor Grant, the Coastal Fund, 2012  
+“Seedbank assessment for Lupinus nipomensis”
+
+Northern California Botanist Botany Research Scholarship Program, 2018  
+"Restoration and Functional Traits"
+
+Graduate Student Associate Travel and Research Grant, 2018  
+"Carbon:Nitrogen Elemental and Isotope Analysis of Native Plants"
