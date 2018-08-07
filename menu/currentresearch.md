@@ -6,10 +6,10 @@
 * Restoration experiment in the context of the International Drought Experiment
 * Enormous amounts of money are spent on restoration annually, however, restoration outcomes are still unpredictable and often poorly understood
 
-**Does Stipa pulchra (Poaceae) exhibit local adaptation?**
+**Does *Stipa pulchra* (Poaceae) exhibit local adaptation?**
 
 * Collaborative project with Maddie Nolan (UCSB) and Justin Valliere (UCLA)
-* Compares whether Stipa pulchra (purple needle grass), a commonly used grassland species in restoration, exhibits local adaptation based on seed provenance
+* Compares whether *Stipa pulchra* (purple needle grass), a commonly used grassland species in restoration, exhibits local adaptation based on seed provenance
 * Compares survival, reproductive potential and a functional trait of 7 localities of seeds at 3 different gardens along a latitudinal gradient
 
 
@@ -20,7 +20,7 @@
 * Collections are targeted at restored, non-restored and remnant sites that were used as restoration reference sites 
 
 
-**The long-term influence of microhabitat factors in establishing the endangered Nipomo Lupine (Fabaceae: Lupinus nipomensis)**
+**The long-term influence of microhabitat factors in establishing the endangered Nipomo Lupine (Fabaceae: *Lupinus nipomensis*)**
 
 * Studies have found that a majority of rare and endangered plant establishment efforts have failed due to an incomplete knowledge base of habitat preferences.
 * An outplanting experiment was started in 2015 using 2880 Nipomo Lupine seeds in a variety of microhabitats
