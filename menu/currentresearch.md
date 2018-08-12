@@ -1,3 +1,8 @@
+---
+layout: page
+title: Current Research
+---
+
 ## Ongoing Research Projects
 ----------
 **Functional Traits and Grassland Restoration**
