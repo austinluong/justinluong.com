@@ -1,7 +1,27 @@
 <div class="menu">
   <nav class="menu-content">
     {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/{{ item.path }}/{{ item.url }}">{{ item.name }}</a>
+    <!-- default menu path -->
+      {% if item.path == nil %}
+        {% assign path = 'menu' %}
+      {% else %}
+        {% assign path = item.path %}
+      {% endif %}
+
+      {% if item.url %}
+        <a href="{{ site.github.url }}/{{ path }}/{{ item.url }}">{{ item.name }}</a>
+      {% else %}
+      <div class="dropdown">
+        <span>
+          {{ item.name }}
+        </span>
+          <div class="dropdown-content">
+            {% for subitem in item.submenu %}
+              <a href="{{ site.github.url }}/{{ path }}/{{ subitem.url }}">{{ subitem.name }}</a>
+            {% endfor %}
+          </div>
+      </div>
+      {% endif %}
     {% endfor %}
   </nav>
   <nav class="social-icons">
