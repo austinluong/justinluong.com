@@ -14,9 +14,8 @@ Ecological restoration seeks to alleviate loss of unique ecosystems through nati
 The objectives of this research are to: 
 (1) determine whether non-species-specific metrics such as functional traits and phylogenetics can help explain the survival and growth of restored native plants when exposed to extreme drought
 (2) use these findings to improve restoration success in the context of climate change. 
+            
 
-
-<img src="https://i.imgur.com/HmwE2fC.jpg" align=right width=120>                     
 **Does *Stipa pulchra* (Poaceae) exhibit local adaptation?**
 
 * Collaborative project with Maddie Nolan (UCSB) and Justin Valliere (UCLA)
@@ -32,8 +31,9 @@ The objectives of this research are to:
 
 
 **The long-term influence of microhabitat factors in establishing the endangered Nipomo Lupine (Fabaceae: *Lupinus nipomensis*)**
-
+![LuNi](https://calphotos.berkeley.edu/imgs/512x768/0000_0000/0117/4705.jpeg)
 * Studies have found that a majority of rare and endangered plant establishment efforts have failed due to an incomplete knowledge base of habitat preferences.
 * An outplanting experiment was started in 2015 using 2880 Nipomo Lupine seeds in a variety of microhabitats
 * Long-term monitoring is taking place to determine the role of microhabitats in sustainable establishment of endangered species as ecological trends are often not visible for several years
 * Factors include abiotic conditions and some potential biotic interactions
+
