@@ -45,7 +45,7 @@ Position: Research Affiliate
 California Native Plant Society Educational Grant Program, 2018
 "What happens to coastal prairie restoration?"
 
-Graduate Student Associate Travel and Research Grant, 2018  
+Graduate Student Associate Travel and Research Grant, 2018
 "What happens to coastal prairie restoration?"
 
 Northern California Botanist Botany Research Scholarship Program, 2018  
