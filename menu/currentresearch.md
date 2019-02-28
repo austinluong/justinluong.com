@@ -18,7 +18,8 @@ The objectives of this research are to:
 
 
 **Does *Stipa pulchra* (Poaceae) exhibit local adaptation?**
-<img src="https://i.imgur.com/HmwE2fC.jpg" align=right width=120>
+
+  <img src="https://i.imgur.com/HmwE2fC.jpg" align=right width=120>
 
 * Collaborative project with Maddie Nolan (UCSB) and Justin Valliere (UCLA)
 * Compares whether *Stipa pulchra* (purple needle grass), a commonly used grassland species in restoration, exhibits local adaptation based on seed provenance
