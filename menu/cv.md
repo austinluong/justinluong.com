@@ -37,15 +37,16 @@ The Cheadle Center of Biodiversity and Ecological Restoration
 UC Santa Barbara, 2015-2017  
 1) Position: Field Restoration Ecologist and Coordinator  
 Teaching Goals: 1. Demonstrate the application of ecological concepts in the field and real world applicability and 2. Teach natural history of coastal ecosystem flora and fauna
-2) 2017-Present
-Position: Research Affiliate
+2) osition: Research Affiliate
+2017-Present
+
 
 ## Awards and Grants
 --------------------
-California Native Plant Society Educational Grant Program, 2018
+California Native Plant Society Educational Grant Program, 2018                 
 "What happens to coastal prairie restoration?"
 
-Graduate Student Associate Travel and Research Grant, 2018
+Graduate Student Associate Travel and Research Grant, 2018                                       
 "What happens to coastal prairie restoration?"
 
 Northern California Botanist Botany Research Scholarship Program, 2018  
