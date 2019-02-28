@@ -4,7 +4,7 @@ title: Presentations
 ---
 ## Academic Presentations
 --------------------
-"Can functional traits inform coastal priarie restoration?"
+"Can functional traits inform coastal prairie restoration?"                                                                         
 University of California Santa Cruz, 9th Bienniel Plant Sciences Symposium                                 
 Santa Cruz, California - January 2019
 
