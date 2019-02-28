@@ -23,7 +23,9 @@ University of California Santa Cruz, 2018 - Present
 Position: Teaching Assistant  
 Courses:
 * Environmental Earth Systems (ENVS 23) – 1 quarter
+* Society and Environment (ENVS 100) - 1 quarter
 * Environmental Senior Capstone (ENVS 190) – 1 quarter
+
 
 Biology: Ecology and Evolution  
 University of California Santa Cruz, 2018  
@@ -35,10 +37,17 @@ The Cheadle Center of Biodiversity and Ecological Restoration
 UC Santa Barbara, 2015-2017  
 1) Position: Field Restoration Ecologist and Coordinator  
 Teaching Goals: 1. Demonstrate the application of ecological concepts in the field and real world applicability and 2. Teach natural history of coastal ecosystem flora and fauna
-
+2) 2017-Present
+Position: Research Affiliate
 
 ## Awards and Grants
 --------------------
+California Native Plant Society Educational Grant Program, 2018
+"What happens to coastal prairie restoration?"
+
+Graduate Student Associate Travel and Research Grant, 2018  
+"What happens to coastal prairie restoration?"
+
 Northern California Botanist Botany Research Scholarship Program, 2018  
 "Restoration and Functional Traits"
 
