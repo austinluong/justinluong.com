@@ -37,7 +37,7 @@ The Cheadle Center of Biodiversity and Ecological Restoration
 UC Santa Barbara, 2015-2017  
 1) Position: Field Restoration Ecologist and Coordinator  
 Teaching Goals: 1. Demonstrate the application of ecological concepts in the field and real world applicability and 2. Teach natural history of coastal ecosystem flora and fauna
-2) osition: Research Affiliate
+2) Position: Research Affiliate
 2017-Present
 
 
