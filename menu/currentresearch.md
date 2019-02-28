@@ -7,9 +7,15 @@ title: Current Research
 ----------
 **Functional Traits and Grassland Restoration**
 
-* Exploring the effect of drought related functional traits in explaining restoration outcomes in the context of drought
-* Restoration experiment in the context of the International Drought Experiment
-* Enormous amounts of money are spent on restoration annually, however, restoration outcomes are still unpredictable and often poorly understood
+![YLR Shelter](https://i.imgur.com/iMznIS6.jpg)
+
+Ecological restoration seeks to alleviate loss of unique ecosystems through native plant reintroductions and invasive species control. However, restoration outcomes can be unpredictable and may become more so with climate change. We are interested in exploring new methods to improve restoration success in coastal prairies to improve coastal ecosystem resilience to droughts. We planted native plant species under rain-out shelters designed to simulate a 1-in-100 year drought. We are interested in understanding if plant traits and evolutionary relationships are predictive of plant survival and growth. We are also interested in whether plant traits can explain changes in plant communities. 
+
+The objectives of this research are to: 
+(1) determine whether non-species-specific metrics such as functional traits and phylogenetics can help explain the survival and growth of restored native plants when exposed to extreme drought
+(2) use these findings to improve restoration success in the context of climate change. 
+
+
 
 **Does *Stipa pulchra* (Poaceae) exhibit local adaptation?**
 
