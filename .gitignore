@@ -5,3 +5,4 @@ Gemfile.lock
 .DS_Store
 justinluong.sublime-project
 justinluong.sublime-workspace
+*.idea
