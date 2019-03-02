@@ -3,6 +3,7 @@ Gemfile.lock
 .sass-cache
 .jekyll-metadata
 .DS_Store
-justinluong.sublime-project
-justinluong.sublime-workspace
+
+*.sublime-project
+*.sublime-workspace
 *.idea
