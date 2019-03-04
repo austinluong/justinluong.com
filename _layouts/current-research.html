@@ -1,0 +1,26 @@
+---
+layout: page
+---
+{{ content }}
+
+{% for section in page.sections %}
+    <strong>{{ section.title | markdownify }}</strong>
+    {% if section.image %}
+        {% if section.image.style == 'center' %}
+            <img src="{{ site.github.url }}/assets/img/{{ section.image.name }}" style="display: flex; margin: auto;">
+            {{ section.content | markdownify }}
+        {% else if section.image.style == 'right' %}
+            <div style="display: flex; flex-direction:row-reverse;">
+                <img src="{{ site.github.url }}/assets/img/{{ section.image.name }}" style="flex: 1; margin-left:2em; align-self: center"/>
+                <div style="flex: 4;">
+                    {{ section.content | markdownify }}
+                </div>
+            </div>
+        {% else %}
+            Invalid style {{section.image.style}}, choose from: ['center', 'right']
+        {% endif %}
+    {% else %}
+        {{ section.content | markdownify }}
+    {% endif %}
+
+{% endfor %}
