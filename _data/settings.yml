@@ -6,8 +6,6 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-  - name: 'About'
-    url: 'about.html'
   - name: 'CV'
     url: 'cv.html'
   - name: 'Research'
