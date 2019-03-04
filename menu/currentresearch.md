@@ -18,20 +18,38 @@ The objectives of this research are to:
 
 **Does *Stipa pulchra* (Poaceae) exhibit local adaptation?**
 
-<img src='/assets/img/stipa.jpg' style="float: right;margin-left: 2em;height: 6em"/>
-
-* Collaborative project with Maddie Nolan (UCSB) and Justin Valliere (UCLA)
-* Compares whether *Stipa pulchra* (purple needle grass), a commonly used grassland species in restoration, exhibits local adaptation based on seed provenance
-* Compares survival, reproductive potential and a functional trait of 7 localities of seeds at 3 different gardens along a latitudinal gradient
+<div style="display: flex; flex-direction:row-reverse;">
+    <img src='/assets/img/stipa.jpg' style="flex: 1; margin-left:2em; align-self: center"/>
+    <ul style="flex: 4;">
+        <li>
+            Collaborative project with Maddie Nolan (UCSB) and Justin Valliere (UCLA)
+        </li>
+        <li>
+            Compares whether *Stipa pulchra* (purple needle grass), a commonly used grassland species in restoration, exhibits local adaptation based on seed provenance
+        </li>
+        <li>
+            Compares survival, reproductive potential and a functional trait of 7 localities of seeds at 3 different gardens along a latitudinal gradient
+        </li>
+    </ul>
+</div>
 
 
 **The effects of grassland restoration on Lady Beetle (Coleoptera: Coccinellidae) community assemblages**
 
-<img src='/assets/img/cadie-logo.png' style="float: right;margin-left: 2em;height: 8em"/>
-
-* Restoration often touts that it is multi-purposed and positively affects the biodiversity at multiple trophic levels however, little work is done on understanding how insect communities may change after restoration
-* We targeted Coccinellids due their importance economically due to agricultural production and because there are known species within the family that are known to be invasive
-* Collections are targeted at restored, non-restored and remnant sites that were used as restoration reference sites 
+<div style="display: flex; flex-direction:row-reverse;">
+    <img src='/assets/img/cadie-logo.png' style="flex: 1; margin-left:2em; align-self: center"/>
+    <ul style="flex: 4;">
+        <li>
+            Restoration often touts that it is multi-purposed and positively affects the biodiversity at multiple trophic levels however, little work is done on understanding how insect communities may change after restoration
+        </li>
+        <li>
+            We targeted Coccinellids due their importance economically due to agricultural production and because there are known species within the family that are known to be invasive
+        </li>
+        <li>
+            Collections are targeted at restored, non-restored and remnant sites that were used as restoration reference sites 
+        </li>
+    </ul>
+</div>
 
 **The long-term influence of microhabitat factors in establishing the endangered Nipomo Lupine (Fabaceae: *Lupinus nipomensis*)**
 
