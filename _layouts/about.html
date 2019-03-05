@@ -2,5 +2,12 @@
 layout: page
 ---
 
-<img class="about-image" src="{{ site.github.url }}/assets/img/{{ page.face_image }}">
-{{ content }}
+<div style="display: flex;">
+    <img alt="Picture of me"
+         src="{{ site.github.url }}/assets/img/{{ page.face_image }}"
+         style="flex: 1; align-self: center; margin-right: 2em"/>
+
+    <div style="flex: 2.5;">
+        {{ content | markdownify }}
+    </div>
+</div>
