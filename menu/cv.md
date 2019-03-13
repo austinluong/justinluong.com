@@ -8,7 +8,8 @@ title: Curriculum Vitae
 Doctor of Philosophy in Environmental Studies, 2017-2022  
 University of California Santa Cruz, CA  
 Research Focus: Novel strategies for understanding restoration outcomes facing climate change  
-Advisors: Michael Loik, Karen Holl
+Advising Committee: Dr. Michael Loik (Primary), Dr. Karen Holl (Co-advised), Dr. Daniel Press
+External Committee: Dr. Katherine Suding (University of Colorado, Boulder)
 
 Bachelor of Science in Environmental Studies, 2010-2014  
 University of California, Santa Barbara, CA  
