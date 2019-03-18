@@ -16,6 +16,8 @@ menu:
         url: 'publications.html'
   - name: 'Presentations'
     url: 'presentations.html'
+  - name: 'Other Resources'
+    url: 'other-resources.html'
   - name: 'Contact'
     url: 'contact.html'
 
