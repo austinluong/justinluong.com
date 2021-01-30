@@ -140,7 +140,7 @@ Duties: Oversee grassland and wetland restoration activities; coordinate and tra
 
 ## Affiliations
 --------------------
-**California Native Plant Society (CNPS)**  
+**California Native Plant Society (CNPS)**
 *Member*  
 2015-Present  
 
