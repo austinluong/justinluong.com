@@ -8,7 +8,7 @@ title: Presentations
 November 2020  
 Santa Cruz Public Library and Santa Cruz Museum of Natural History  
 
-**"Leaf traits and phylogenetics help explain coastal grassland restoration plant survival and community change during extreme drought"**  
+**["Leaf traits and phylogenetics help explain coastal grassland restoration plant survival and community change during extreme drought"](https://youtu.be/dZgtgLgiHz4)**  
 STEM+ Village Virtual Symposium  
 August 2020  
 
@@ -57,7 +57,7 @@ Online Conference - October 2020
 Ecological Society Association Annual Meeting  
 Online Conference - August 2020  
 
-**“How successful is coastal grassland restoration?”** *Awarded Top Three Student Entry*  
+**[“How successful is coastal grassland restoration?”](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.12996.24968?_sg%5B0%5D=7ulXLOkd4vNNM1awS0khyhDz-vk5uwcpSTBz_wUQMyzZzTilwqDJoLp8GQgsiMDG3eTncliEb0ES10FA94SWSdgmKA.z7spsbrlWnsJCWT2m8_qAfORJDvH5MqVk0QnR1Zz4XqN7_35OPv665kFkv0wCbRC_lCLi5KtpEfsHfOGqIWISg)** *Awarded Top Three Student Entry*  
 10th Northern California Botanists Research Symposium  
 Chico, California – January 2020  
 
