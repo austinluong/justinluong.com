@@ -12,7 +12,7 @@ Santa Cruz Public Library and Santa Cruz Museum of Natural History
 STEM+ Village Virtual Symposium  
 August 2020  
 
-**"Restoring California Grasslands"**  
+**["Restoring California Grasslands"](https://youtu.be/TFtuxyul_-s)**  
 UC Santa Cruz Grad Slam 2020  
 March 2020
 
@@ -49,11 +49,11 @@ ENVS 131 - Insect Ecology at UC Santa Cruz
 
 ## Poster Sessions
 --------------------
-**“Does drought and non-native competition affect California coastal prairie plants?** *Awarded Top Three Student Entry*  
+**[“Does drought and non-native competition affect California coastal prairie plants?](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.34337.84329?_sg%5B0%5D=3uB10nmDg7FDOAe9K1n9KuQ5mHM_FWZCJ_JVBEQJ1VumXh4xcVahGnCjNUyB2YTV5n3oRWN4kQTbC5aQvgF6ffm5OA.x8sQqfkU7nm8jo0O5QTfx6DF5gKTCkHE3sjMArR9icVWSisZHf9YMjEK-Hm9wHhSMHHBjgqkz1hdww2wuRe5Yw)** *Awarded Top Three Student Entry*  
 29th California Invasive Plant Council    
 Online Conference - October 2020 
 
-**“Leaf traits and phylogenetics help explain coastal grassland restoration plant survival and community change during extreme drought”**
+**[“Leaf traits and phylogenetics help explain coastal grassland restoration plant survival and community change during extreme drought”](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.28095.74407?_sg%5B0%5D=NVyTXskUAy9WInyBf1fgriT16v9m4jJ7ZKeQiLXPme6VUtbtf0kAe-fqJGBqn3wCK4f-grmI5kzJ3zt_bnsrFyJjpw.-Qr1D7uvTXHSHsy2_d7OSBriICqO8gZ8s21rE4qaSDN1WaOXMVuI3-oD6bctnlMr53-9KOIPmIvpaDPaqW6-Xw)**
 Ecological Society Association Annual Meeting  
 Online Conference - August 2020  
 
@@ -69,6 +69,6 @@ Santa Barbara, California – April 2019
 Chico, California – 9th Annual Northern California Botanists Symposium                                        
 January 2019
 
-**“Can Functional Traits Improve Grassland Restoration?”**                                      
+**[“Can Functional Traits Improve Grassland Restoration?”](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.12996.24968?_sg%5B0%5D=7ulXLOkd4vNNM1awS0khyhDz-vk5uwcpSTBz_wUQMyzZzTilwqDJoLp8GQgsiMDG3eTncliEb0ES10FA94SWSdgmKA.z7spsbrlWnsJCWT2m8_qAfORJDvH5MqVk0QnR1Zz4XqN7_35OPv665kFkv0wCbRC_lCLi5KtpEfsHfOGqIWISg)**                                      
 Monterey, California – 27th California Invasive Plant Council Symposium                    
 November 2018
