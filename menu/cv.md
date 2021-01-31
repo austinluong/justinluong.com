@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 ## Academic History
----------
+
 
 **Doctor of Philosophy in Environmental Studies**, 2017-2022  
 *University of California Santa Cruz, CA*  
@@ -17,9 +17,9 @@ External Committee: Dr. Katharine Suding (University of Colorado, Boulder)
 Focus: Restoration Ecology
 
 
-
+---------
 ## Teaching Experience
---------------------
+
 
 *Environmental Studies*  
 **University of California Santa Cruz**, 2018 - Present  
@@ -44,9 +44,9 @@ Teaching Goals: 1. Demonstrate the application of ecological concepts in the fie
 2017-Present
 
 
-
-## Awards and Grants
 --------------------
+## Awards and Grants
+
 
 * UC Santa Cruz Plant Sciences Student Greenhouse Award, 2020
 * Radical Resilience Initiative Grant, 2020
@@ -74,9 +74,9 @@ UNDERGRAD GRANTS RECEIVED BY MENTEES
 * USDA SUPERDAR 2.0, UCSC, 2020
 
 
-
-## Professional Experience
 --------------------
+## Professional Experience
+
 
 **California Marine Sanctuary Foundation**  
 Monterey, CA 2020-Present  
@@ -142,9 +142,9 @@ Duties: Oversee grassland and wetland restoration activities; coordinate and tra
 2021 - Present
 
 
-
-## Affiliations
 --------------------
+## Affiliations
+
 **California Native Plant Society (CNPS)**
 *Member*  
 2015-Present  
