@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-ORC-ID = 0000-0003-2118-4788
+ORC-ID = [0000-0003-2118-4788](https://orcid.org/0000-0003-2118-4788)
 
 If you are interested in hearing more about any of my research, or think that you may want to collaborate on a future or current project do not hesitate to contact me ([jluong4@ucsc.edu](mailto:jluong4@ucsc.edu))
 
