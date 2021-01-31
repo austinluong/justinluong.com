@@ -58,7 +58,7 @@ ENVS 131 - Insect Ecology at UC Santa Cruz
 29th California Invasive Plant Council    
 Online Conference - October 2020 
 
-**[“Leaf traits and phylogenetics help explain coastal grassland restoration plant survival and community change during extreme drought”](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.28095.74407?_sg%5B0%5D=NVyTXskUAy9WInyBf1fgriT16v9m4jJ7ZKeQiLXPme6VUtbtf0kAe-fqJGBqn3wCK4f-grmI5kzJ3zt_bnsrFyJjpw.-Qr1D7uvTXHSHsy2_d7OSBriICqO8gZ8s21rE4qaSDN1WaOXMVuI3-oD6bctnlMr53-9KOIPmIvpaDPaqW6-Xw)**
+**[“Leaf traits and phylogenetics help explain coastal grassland restoration plant survival and community change during extreme drought”](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.28095.74407?_sg%5B0%5D=NVyTXskUAy9WInyBf1fgriT16v9m4jJ7ZKeQiLXPme6VUtbtf0kAe-fqJGBqn3wCK4f-grmI5kzJ3zt_bnsrFyJjpw.-Qr1D7uvTXHSHsy2_d7OSBriICqO8gZ8s21rE4qaSDN1WaOXMVuI3-oD6bctnlMr53-9KOIPmIvpaDPaqW6-Xw)**  
 Ecological Society Association Annual Meeting  
 Online Conference - August 2020  
 
