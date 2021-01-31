@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 ---
-
+--------------------
 ## Academic History
 
 
@@ -119,9 +119,9 @@ Positions: *Student Worker* (1.5 yrs) – *Restoration Assistant* (0.5 yrs) – 
 Duties: Oversee grassland and wetland restoration activities; coordinate and train students and volunteers; teach non- and native plant ID; conduct endangered species research (Lupinus nipomensis); collect annual vegetation monitoring data; generate reports on grassland restoration and endangered species recovery 
 
 
-
-## Boards and Committees
 --------------------
+## Boards and Committees
+
 **Environmental Studies Grant Review Committee**  
 2018 – Present  
 
