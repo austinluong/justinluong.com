@@ -5,6 +5,7 @@ title: Curriculum Vitae
 
 ## Academic History
 ---------
+
 **Doctor of Philosophy in Environmental Studies**, 2017-2022  
 *University of California Santa Cruz, CA*  
 Research Focus: Novel strategies for understanding restoration outcomes facing climate change  
@@ -14,6 +15,7 @@ External Committee: Dr. Katharine Suding (University of Colorado, Boulder)
 **Bachelor of Science in Environmental Studies**, 2010-2014  
 *University of California, Santa Barbara, CA*  
 Focus: Restoration Ecology
+
 
 
 ## Teaching Experience
@@ -28,7 +30,6 @@ Courses:
 * Conservation Biology (ENVS 120) - 1 quarter
 * Environmental Senior Capstone (ENVS 190) – 1 quarter
 
-
 *Biology: Ecology and Evolution*  
 **University of California Santa Cruz**, 2018  
 Position: Teaching Assistant  
@@ -41,6 +42,7 @@ Courses:
 Teaching Goals: 1. Demonstrate the application of ecological concepts in the field and real world applicability and 2. Teach natural history of coastal ecosystem flora and fauna
 2) Position: Research Affiliate
 2017-Present
+
 
 
 ## Awards and Grants
@@ -75,6 +77,7 @@ UNDERGRAD GRANTS RECEIVED BY MENTEES
 
 ## Professional Experience
 --------------------
+
 **California Marine Sanctuary Foundation**  
 Monterey, CA 2020-Present  
 *Consulting Ecologist*  
@@ -116,6 +119,7 @@ Positions: *Student Worker* (1.5 yrs) – *Restoration Assistant* (0.5 yrs) – 
 Duties: Oversee grassland and wetland restoration activities; coordinate and train students and volunteers; teach non- and native plant ID; conduct endangered species research (Lupinus nipomensis); collect annual vegetation monitoring data; generate reports on grassland restoration and endangered species recovery 
 
 
+
 ## Boards and Committees
 --------------------
 **Environmental Studies Grant Review Committee**  
@@ -136,6 +140,7 @@ Duties: Oversee grassland and wetland restoration activities; coordinate and tra
 **California Native Grassland Association**  
 *Director-at-Large*  
 2021 - Present
+
 
 
 ## Affiliations
