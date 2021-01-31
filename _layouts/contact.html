@@ -1,2 +1,10 @@
-face_image: self.jpg
-field_image: IMG_7271.jpeg
+<div style="display: flex;">
+<img alt="Justin giving a talk at the UCSC Gradslam"
+         src="{{ site.github.url }}/assets/img/{{ page.gradslam_image }}"
+         style="flex: 1; max-width: 100%; align-self: center"/>
+    
+    
+ <div style="flex: 2.5;">
+        {{ content | markdownify }}
+    </div>
+</div>
