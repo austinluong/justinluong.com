@@ -23,6 +23,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'twitter', link: 'https://twitter.com/JustinCLuong'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/justinluong/'}
 - {icon: 'envelope', link: 'mailto:jluong4@ucsc.edu'}
 # - {icon: 'rss-square', link: 'feed.xml'}
