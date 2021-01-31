@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+image: Gradslam2020.jpg
 ---
 
 ORC-ID = [0000-0003-2118-4788](https://orcid.org/0000-0003-2118-4788)
