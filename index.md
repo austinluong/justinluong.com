@@ -13,6 +13,6 @@ I am also a research affiliate at the Cheadle Center for Biodiversity and Ecolog
 If you think we have similar research interests and would like to collaborate on a project please feel free to contact me at greenjustinluong@gmail.com or jluong4@ucsc.edu. 
 
 
-image: JustinLICOR.jpg
+LICOR_image: JustinLICOR.jpg
 image: JustinBiomass.jpg
 image: JustinUmbrella.jpg
