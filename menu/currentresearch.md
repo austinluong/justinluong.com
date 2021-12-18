@@ -27,6 +27,7 @@ sections:
             exhibits local adaptation based on seed provenance
           * Compares survival, reproductive potential and a functional trait of 7 localities of seeds at 3 different
             gardens along a latitudinal gradient
+            
     - title: "Local Adaptations in Restoration"
       image:
           name: JustinLICOR.jpg
