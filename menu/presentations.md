@@ -5,18 +5,18 @@ title: Presentations
 --------------------
 ## Talks
 **"[Ladybeetle community composition is influenced by local scale restoration, but abundance is affected by seasonality](https://youtu.be/ofUoIvD-tYw)"**  
-Entomological Society Annual Meeting 2021 
-October 2021 
+Entomological Society Annual Meeting 2021  
+October 2021  
 
 **"[Restoring endangered species: Lessons from Lupinus nipomensis reintroductions five years later](https://youtu.be/Z7-r-8f7i-I)"**  
-Conservation and Climate Section. Bio-Diverse Festival 2021 Virtual Symposium 
-September 2021  
+Conservation and Climate Section. Bio-Diverse Festival 2021 Virtual Symposium  
+October 2021   
 
 **"Coastal grassland restoration success: Lessons and pitfalls from plant communities and land managers 3-30 years after planting"**  
 Ecological Society of America Annual Meeting. ESA2021 Virtual Conference  
 August 2021  
 
-**"[Coastal prairie plants responses to competition and drought varies by species & invader identity](youtube.com\watch?v=wgc4DcGCtu0)"**  
+**"[Coastal prairie plants responses to competition and drought varies by species & invader identity](https://www.youtube.com/watch?v=wgc4DcGCtu0)"**  
 Botany 2021 Virtual Conference  
 July 2021  
 
