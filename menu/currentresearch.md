@@ -40,8 +40,7 @@ sections:
             there are known species within the family that are known to be invasive
           * Collections are targeted at restored, non-restored and remnant sites that were used as restoration
             reference sites
-    - title: "The long-term influence of microhabitat factors in establishing the endangered Nipomo Lupine (Fabaceae:
-      *Lupinus nipomensis*)"
+    - title: "Long-term recovery of the endangered Nipomo Lupine (Fabaceae: *Lupinus nipomensis*)"
       image:
           name: luni.jpg
           alt: Picture of LuNi
@@ -49,8 +48,8 @@ sections:
       content: |
           * Studies have found that a majority of rare and endangered plant establishment efforts have failed due to an
             incomplete knowledge base of habitat preferences.
-          * An outplanting experiment was started in 2015 using 2880 Nipomo Lupine seeds in a variety of microhabitats
+          * An outplanting experiment was started in 2015 and two others in 2019.
           * Long-term monitoring is taking place to determine the role of microhabitats in sustainable establishment of
             endangered species as ecological trends are often not visible for several years
-          * Factors include abiotic conditions and some potential biotic interactions
+          * Factors include abiotic conditions (aspect, slope, precipitation, temperature) and biotic interactions (competition, pollinator limitation, plant herbivores)
 ---
