@@ -14,8 +14,7 @@ sections:
            against project-based goals from project documents and management interviews, and against a standard 
            performance metric.  
          * I am especially interested in understanding why certain projects are more successful than other, 
-           the effect of time, and interannual variability.  
-         
+           the effect of time, and interannual variability.           
    - title: Using Ecophysiology to Address the Impact of Global Change on Restoration
       image:
           name: stipa.jpg
@@ -29,8 +28,7 @@ sections:
           * Use both physiological and morphological plant approaches in manipulative and observational field studies 
             and controlled greenhouse environments.  
           * I integrate functional and phylogenetic diversity metrics to better understand the impacts of restoration and
-            global change on different metrics of biodiversity.
-         
+            global change on different metrics of biodiversity.         
     - title: Local Adaptations in Restoration
       image:
           name: stipa.jpg
@@ -42,8 +40,7 @@ sections:
           * However, recent reviews found only half of plants tested are actually locally adapted, less than previously 
             thought. And with climate change locally adaptated populations may no longer be best suited for local restoration.
           * I am currently working in collaborations to assess the presence of local adaptation in commonly used restoration species:
-            *Stipa pulchra* and *Eschscholzia californica* in multi-sited common gardens, and in response to greenhouse fog manipulations 
-            
+            *Stipa pulchra* and *Eschscholzia californica* in multi-sited common gardens, and in response to greenhouse fog manipulations             
     - title: The Effects of Restoration on Ecosystem Functioning
       image:
           name: cadie-logo.png
@@ -54,9 +51,7 @@ sections:
             trophic levels however, little work is done on understanding how insect communities may change after
             restoration
           * I work to understand how restoration affects insect communities and am currently focusing on coccinellids
-          * I am currently working to understand how mid-term grassland restoration affects soil carbon
-          
-            
+          * I am currently working to understand how mid-term grassland restoration affects soil carbon         
     - title: "Long-term recovery of the endangered Nipomo Lupine (Fabaceae: *Lupinus nipomensis*)"
       image:
           name: luni.jpg
