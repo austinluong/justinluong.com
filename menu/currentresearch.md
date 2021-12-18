@@ -2,7 +2,7 @@
 layout: current-research
 title: Current Research
 sections:
-    - title: Assessing Long-term Restoration Outcomes
+    - title: "Assessing Long-term Restoration Outcomes"
       image:
           name: ylr-shelter.jpg
           alt: YLR Shelter
@@ -16,7 +16,7 @@ sections:
           * I am especially interested in understanding why certain projects are more successful than other, 
             the effect of time, and interannual variability.           
 
-    - title: Does *Stipa pulchra* (Poaceae) exhibit local adaptation?
+    - title: "Using Ecophysiology to Address the Impact of Global Change on Restoration"
       image:
           name: stipa.jpg
           alt: Stipa
