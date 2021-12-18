@@ -64,3 +64,6 @@ sections:
           * Long-term monitoring is taking place to determine the role of microhabitats in sustainable establishment of
             endangered species as ecological trends are often not visible for several years
           * Factors include abiotic conditions (aspect, slope, precipitation, temperature) and biotic interactions (competition, pollinator limitation, plant herbivores)
+
+
+---
