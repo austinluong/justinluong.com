@@ -4,10 +4,25 @@ title: Presentations
 ---
 --------------------
 ## Talks
+**"[Ladybeetle community composition is influenced by local scale restoration, but abundance is affected by seasonality](https://youtu.be/ofUoIvD-tYw)"**  
+Entomological Society Annual Meeting 2021 
+October 2021 
 
-**"Naturalist Night: Coastal Prairies" (*Invited Talk*)**  
-November 2020  
-Santa Cruz Public Library and Santa Cruz Museum of Natural History  
+**"[Restoring endangered species: Lessons from Lupinus nipomensis reintroductions five years later](https://youtu.be/Z7-r-8f7i-I)"**  
+Conservation and Climate Section. Bio-Diverse Festival 2021 Virtual Symposium 
+September 2021  
+
+**"Coastal grassland restoration success: Lessons and pitfalls from plant communities and land managers 3-30 years after planting"**  
+Ecological Society of America Annual Meeting. ESA2021 Virtual Conference  
+August 2021  
+
+**"[Coastal prairie plants responses to competition and drought varies by species & invader identity]"(youtube.com\watch?v=wgc4DcGCtu0)**  
+Botany 2021 Virtual Conference  
+July 2021  
+
+**"Drought responses of coastal California prairie species during non-native competition"**  
+California Botanical Society 28th Graduate Student Symposium  
+April 2021  
 
 **["Leaf traits and phylogenetics help explain coastal grassland restoration plant survival and community change during extreme drought"](https://youtu.be/dZgtgLgiHz4)**  
 STEM+ Village Virtual Symposium  
@@ -42,6 +57,32 @@ United States of Fish and Wildlife, Ventura – February 2016
 
 
 --------------------
+## Invited Talks 
+**"Assessing regional outcomes and drought management strategies for coastal California grassland restoration" (*Invited Talk*)**  
+November 2021 
+UC Berkeley Environmental Science and Policy Management: Ecolunch 
+
+**"Utilizing traditional ecological knowledge to tend geophytes on the Central Coast of California" (*Invited Talk*)**  
+March 2021  
+Center for Japanese Studies (CJS) - Japan Society for the Promotion of Science (JSPS) 
+Virtual Symposium "Agroecology, Sustainable Food Production and Satoyama: 
+Contributions of Japanese Case Studies to the Discussion of Traditional 
+Ecological Knowledge and Environmental Conservation" 
+
+**["What happens to restored grasslands after planting and seeding efforts?"](https://www.youtube.com/watch?v=aAjeW0VM0gg&list=PL8rW4MwMEcUnzNN4GUIDKIf8Ez9NtSRid&index=2) (*Invited Talk*)**  
+March 2021  
+National Park Services: Golden Gate National Recreational Area
+
+**"Long-term restoration of Golden Gate National Recreational Area coastal prairies" (*Invited Talk*)**  
+March 2021
+National Park Services: Golden Gate National Recreational Area
+
+**"Naturalist Night: Coastal Prairies" (*Invited Talk*)**  
+November 2020  
+Santa Cruz Public Library and Santa Cruz Museum of Natural History  
+
+
+--------------------
 ## Guest Lectures
 
 "Basic Field Botany" - January 2017  
@@ -53,6 +94,13 @@ ENVS 131 - Insect Ecology at UC Santa Cruz
 
 --------------------
 ## Poster Sessions
+**“Photosynthesis and growth of invasive plants exposed to extreme drought in California coastal grassland?”**  
+Ecological Society of America Annual Meeting 2021 
+Online Conference – August 2021
+
+**“Does local-scale grassland restoration affect lady beetle (Coccinellidae) communities?”**  
+Entomological Society of America Annual Meeting 2020   
+Online Conference – November 2020
 
 **[“Does drought and non-native competition affect California coastal prairie plants?](https://www.researchgate.net/deref/http%3A%2F%2Fdx.doi.org%2F10.13140%2FRG.2.2.34337.84329?_sg%5B0%5D=3uB10nmDg7FDOAe9K1n9KuQ5mHM_FWZCJ_JVBEQJ1VumXh4xcVahGnCjNUyB2YTV5n3oRWN4kQTbC5aQvgF6ffm5OA.x8sQqfkU7nm8jo0O5QTfx6DF5gKTCkHE3sjMArR9icVWSisZHf9YMjEK-Hm9wHhSMHHBjgqkz1hdww2wuRe5Yw)** *Awarded Top Three Student Entry*  
 29th California Invasive Plant Council    
