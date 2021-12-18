@@ -27,19 +27,16 @@ sections:
             exhibits local adaptation based on seed provenance
           * Compares survival, reproductive potential and a functional trait of 7 localities of seeds at 3 different
             gardens along a latitudinal gradient
-    - title: "The effects of grassland restoration on Lady Beetle (Coleoptera: Coccinellidae) community assemblages"
+    - title: "The Effects of Restoration on Ecosystem Functioning"
       image:
           name: cadie-logo.png
           alt: Picture of stipa
           style: right
       content: |
-          * Restoration often touts that it is multi-purposed and positively affects the biodiversity at multiple
-            trophic levels however, little work is done on understanding how insect communities may change after
-            restoration
-          * We targeted Coccinellids due their importance economically due to agricultural production and because
-            there are known species within the family that are known to be invasive
-          * Collections are targeted at restored, non-restored and remnant sites that were used as restoration
-            reference sites
+          * Restoration indicates that it is multi-purposed and positively affects the biodiversity at multiple
+            trophic levels and ecosystem functioning, but is rarely assessed
+          * I work to understand how restoration affects insect communities and am currently focusing on coccinellids
+          * I am currently working to understand how mid-term grassland restoration affects soil carbon         
     - title: "Long-term recovery of the endangered Nipomo Lupine (Fabaceae: *Lupinus nipomensis*)"
       image:
           name: luni.jpg
