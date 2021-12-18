@@ -22,24 +22,28 @@ sections:
           alt: Stipa
           style: right
       content: |
-          * Collaborative project with Maddie Nolan (UCSB) and Justin Valliere (UCLA)
-          * Compares whether *Stipa pulchra* (purple needle grass), a commonly used grassland species in restoration,
-            exhibits local adaptation based on seed provenance
-          * Compares survival, reproductive potential and a functional trait of 7 localities of seeds at 3 different
-            gardens along a latitudinal gradient
-    - title: "The effects of grassland restoration on Lady Beetle (Coleoptera: Coccinellidae) community assemblages"
+          * Global change is rapidly resulting in novel temperatures and precipitation patterns and increased nitrogen
+            deposition and species invasion.  
+          * I work towards understanding how global change factors, especially drought, influence restoration outcomes
+            and the utility of the functional traits for understanding community change and plant selection.  
+          * Use both physiological and morphological plant approaches in manipulative and observational field studies 
+            and controlled greenhouse environments.  
+          * I integrate functional and phylogenetic diversity metrics to better understand the impacts of restoration and
+            global change on different metrics of biodiversity.         
+            
+    - title: "Local Adaptations in Restoration"
       image:
           name: cadie-logo.png
           alt: Picture of stipa
           style: right
       content: |
-          * Restoration often touts that it is multi-purposed and positively affects the biodiversity at multiple
-            trophic levels however, little work is done on understanding how insect communities may change after
-            restoration
-          * We targeted Coccinellids due their importance economically due to agricultural production and because
-            there are known species within the family that are known to be invasive
-          * Collections are targeted at restored, non-restored and remnant sites that were used as restoration
-            reference sites
+          * The dominant restoration paradigm encourages that practitioners only use "locally" sourced plants because
+            they may have evolved relative fitness benefits compared to non-local populations.
+          * However, recent reviews found only half of plants tested are actually locally adapted, less than previously 
+            thought. And with climate change locally adaptated populations may no longer be best suited for local restoration.
+          * I am currently working in collaborations to assess the presence of local adaptation in commonly used restoration species:
+            *Stipa pulchra* and *Eschscholzia californica* in multi-sited common gardens, and in response to greenhouse fog manipulations             
+
     - title: "The long-term influence of microhabitat factors in establishing the endangered Nipomo Lupine (Fabaceae:
       *Lupinus nipomensis*)"
       image:
