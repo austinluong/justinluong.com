@@ -27,6 +27,18 @@ sections:
             exhibits local adaptation based on seed provenance
           * Compares survival, reproductive potential and a functional trait of 7 localities of seeds at 3 different
             gardens along a latitudinal gradient
+    - title: "Local Adaptations in Restoration"
+      image:
+          name: JustinLICOR.jpg
+          alt: Picture of stipa
+          style: right
+      content: |
+          * The dominant restoration paradigm encourages that practitioners only use "locally" sourced plants because
+            they may have evolved relative fitness benefits compared to non-local populations.
+          * However, recent reviews found only half of plants tested are actually locally adapted, less than previously 
+            thought. And with climate change locally adaptated populations may no longer be best suited for local restoration.
+          * I am currently working in collaborations to assess the presence of local adaptation in commonly used restoration species:
+            *Stipa pulchra* and *Eschscholzia californica* in multi-sited common gardens, and in response to greenhouse fog manipulations                 
     - title: "The Effects of Restoration on Ecosystem Functioning"
       image:
           name: cadie-logo.png
