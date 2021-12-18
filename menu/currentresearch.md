@@ -2,40 +2,62 @@
 layout: current-research
 title: Current Research
 sections:
-    - title: Assessing Mid- and Long-term Restoration Outcomes
+    - title: Assessing Long-term Restoration Outcomes
       image:
           name: ylr-shelter.jpg
           alt: YLR Shelter
           style: right
       content: |
-         Ecological restoration has been documented as a management action since the 1980s, yet there are limited efforts to assess outcomes, especially past intial implementation. To better understand how restoration efforts are faring, we surveyed 37 restored coastal grasslands over the past three years to compare the vegetation data against project-based goals from original documents and management interviews, and against a standard performance metric. I'm especially interested in understanding why certain projects are more successful than other, the effect of time, and interannual variability.
+         * Ecological restoration has been documented as a management action since the 1980s.  
+         * Outcomes are often not assessed, especially past intial implementation.  
+         * I surveyed 37 restored coastal grasslands over from 2019-2021 to compare the vegetation data 
+           against project-based goals from project documents and management interviews, and against a standard 
+           performance metric.  
+         * I am especially interested in understanding why certain projects are more successful than other, 
+           the effect of time, and interannual variability.  
          
-    - title: Does *Stipa pulchra* (Poaceae) exhibit local adaptation?
+   - title: Using Ecophysiology to Address the Impact of Global Change on Restoration
       image:
           name: stipa.jpg
           alt: Stipa
           style: right
       content: |
-          * Collaborative project with Maddie Nolan (UCSB) and Justin Valliere (UCLA)
-          * Compares whether *Stipa pulchra* (purple needle grass), a commonly used grassland species in restoration,
-            exhibits local adaptation based on seed provenance
-          * Compares survival, reproductive potential and a functional trait of 7 localities of seeds at 3 different
-            gardens along a latitudinal gradient
-    - title: "The effects of grassland restoration on Lady Beetle (Coleoptera: Coccinellidae) community assemblages"
+          * Global change is rapidly resulting in novel temperatures and preciptation patterns and increased nitrogen
+            deposition and species invasion.  
+          * I work towards understanding how global change factors, especially drought, influence restoration outcomes
+            and the utility of the functional traits for understanding community change and plant selection.  
+          * Use both physiological and morphological plant approaches in manipulative and observational field studies 
+            and controlled greenhouse environments.  
+          * I integrate functional and phylogenetic diversity metrics to better understand the impacts of restoration and
+            global change on different metrics of biodiversity.
+         
+    - title: Local Adaptations in Restoration
+      image:
+          name: stipa.jpg
+          alt: Stipa
+          style: right
+      content: |
+          * The dominant restoration paradigm encourages that practitioners only use "locally" sourced plants because
+            they may have evolved relative fitness benefits compared to non-local populations.
+          * However, recent reviews found only half of plants tested are actually locally adapted, less than previously 
+            thought. And with climate change locally adaptated populations may no longer be best suited for local restoration.
+          * I am currently working in collaborations to assess the presence of local adaptation in commonly used restoration species:
+            *Stipa pulchra* and *Eschscholzia californica* in multi-sited common gardens, and in response to greenhouse fog manipulations 
+            
+    - title: The Effects of Restoration on Ecosystem Functioning
       image:
           name: cadie-logo.png
-          alt: Picture of stipa
+          alt: illustrated coccinellid on plant by Chelsea Chung
           style: right
       content: |
           * Restoration often touts that it is multi-purposed and positively affects the biodiversity at multiple
             trophic levels however, little work is done on understanding how insect communities may change after
             restoration
-          * We targeted Coccinellids due their importance economically due to agricultural production and because
-            there are known species within the family that are known to be invasive
-          * Collections are targeted at restored, non-restored and remnant sites that were used as restoration
-            reference sites
-    - title: "The long-term influence of microhabitat factors in establishing the endangered Nipomo Lupine (Fabaceae:
-      *Lupinus nipomensis*)"
+          * I work to understand how restoration affects insect communities and am currently focusing on coccinellids
+          * I am currently working to understand how mid-term grassland restoration affects soil carbon
+          
+            
+    - title: "Long-term recovery of the endangered Nipomo Lupine (Fabaceae: *Lupinus nipomensis*)"
       image:
           name: luni.jpg
           alt: Picture of LuNi
@@ -43,11 +65,7 @@ sections:
       content: |
           * Studies have found that a majority of rare and endangered plant establishment efforts have failed due to an
             incomplete knowledge base of habitat preferences.
-          * An outplanting experiment was started in 2015 using 2880 Nipomo Lupine seeds in a variety of microhabitats
+          * An outplanting experiment was started in 2015 and two others in 2019.
           * Long-term monitoring is taking place to determine the role of microhabitats in sustainable establishment of
             endangered species as ecological trends are often not visible for several years
-          * Factors include abiotic conditions and some potential biotic interactions
----
-
-## Ongoing Research Projects
-----------
+          * Factors include abiotic conditions (aspect, slope, precipitation, temperature) and biotic interactions (competition, pollinator limitation, plant herbivores)
