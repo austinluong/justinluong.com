@@ -2,24 +2,20 @@
 layout: current-research
 title: Current Research
 sections:
-    - title: Functional Traits and Grassland Restoration
+    - title: Assessing Long-term Restoration Outcomes
       image:
           name: ylr-shelter.jpg
           alt: YLR Shelter
           style: center
       content: |
-          Ecological restoration seeks to alleviate loss of unique ecosystems through native plant reintroductions
-          and invasive species control. However, restoration outcomes can be unpredictable and may become more so with
-          climate change. We are interested in exploring new methods to improve restoration success in coastal
-          prairies to improve coastal ecosystem resilience to droughts. We planted native plant species under rain-out
-          shelters designed to simulate a 1-in-100 year drought. We are interested in understanding if plant traits
-          and evolutionary relationships are predictive of plant survival and growth. We are also interested in
-          whether plant traits can explain changes in plant communities. 
-      
-          The objectives of this research are to: 
-          (1) determine whether non-species-specific metrics such as functional traits and phylogenetics can help
-          explain the survival and growth of restored native plants when exposed to extreme drought
-          (2) use these findings to improve restoration success in the context of climate change. 
+          * Ecological restoration has been documented as a management action since the 1980s.  
+          * Outcomes are often not assessed, especially past intial implementation.  
+          * I surveyed 37 restored coastal grasslands over from 2019-2021 to compare the vegetation data 
+           against project-based goals from project documents and management interviews, and against a standard 
+           performance metric.  
+          * I am especially interested in understanding why certain projects are more successful than other, 
+            the effect of time, and interannual variability.           
+
     - title: Does *Stipa pulchra* (Poaceae) exhibit local adaptation?
       image:
           name: stipa.jpg
