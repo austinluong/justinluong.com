@@ -2,7 +2,7 @@
 layout: current-research
 title: Current Research
 sections:
-    - title: "Assessing Long-term Restoration Outcomes"
+    - title: "Assessing Longterm Restoration Outcomes"
       image:
           name: JustinUmbrella.jpg
           alt: Justin taking data at a restoration site in Watsonville California while holding an umbrella
