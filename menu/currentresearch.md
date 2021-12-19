@@ -6,7 +6,7 @@ sections:
       image:
           name: ylr-shelter.jpg
           alt: YLR Shelter
-          style: center
+          style: right
       content: |
           * Ecological restoration has been documented as a management action since the 1980s.  
           * Outcomes are often not assessed, especially past intial implementation.  
