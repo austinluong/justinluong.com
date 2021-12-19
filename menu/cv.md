@@ -83,7 +83,7 @@ UNDERGRAD GRANTS RECEIVED BY MENTEES
 ## Mentorship
 * Elisha Villanueva, undergrad, (2021-Present)  
 * Emma Houle, undergrad, (2020-Present)  
-* Ernesto Chavez-Velasco, undergrad and professional, (2020-Present) 
+* Ernesto Chavez-Velasco, undergrad and professional, (2020-Present)  
  *senior thesis: "Responses of Functional Leaf Traits to Fog & Drought are Greater  
   for Native Coastal California Grassland than Coastal Agricultural Species"*    
 * Carina Motta, undergrad and master's, (2020-Present)  
