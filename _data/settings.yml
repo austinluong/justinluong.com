@@ -14,6 +14,8 @@ menu:
     url: 'currentresearch.html'
   - name: 'Presentations'
     url: 'presentations.html'
+  - name: 'Art and Science'
+    url: 'artandscience.html'
   - name: 'Contact'
     url: 'contact.html'
 
