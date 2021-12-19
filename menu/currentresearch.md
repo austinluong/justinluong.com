@@ -4,8 +4,8 @@ title: Current Research
 sections:
     - title: "Assessing Long-term Restoration Outcomes"
       image:
-          name: ylr-shelter.jpg
-          alt: YLR Shelter
+          name: JustinUmbrella.jpg
+          alt: Justin taking data at a restoration site in Watsonville California while holding an umbrella
           style: right
       content: |
           * Ecological restoration has been documented as a management action since the 1980s.  
