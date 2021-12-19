@@ -18,20 +18,23 @@ sections:
 
     - title: "Using Ecophysiology to Address the Impact of Global Change on Restoration"
       image:
-          name: stipa.jpg
-          alt: Stipa
+          name: JustinLICOR.jpg
+          alt: Justin taking leaf gas exchange measurements with a LI6400
           style: right
       content: |
-          * Collaborative project with Maddie Nolan (UCSB) and Justin Valliere (UCLA)
-          * Compares whether *Stipa pulchra* (purple needle grass), a commonly used grassland species in restoration,
-            exhibits local adaptation based on seed provenance
-          * Compares survival, reproductive potential and a functional trait of 7 localities of seeds at 3 different
-            gardens along a latitudinal gradient
+          * Global change is rapidly resulting in novel temperatures and precipitation patterns and increased nitrogen
+            deposition and species invasion.  
+          * I work towards understanding how global change factors, especially drought, influence restoration outcomes
+            and the utility of the functional traits for understanding community change and plant selection.  
+          * Use both physiological and morphological plant approaches in manipulative and observational field studies 
+            and controlled greenhouse environments.  
+          * I integrate functional and phylogenetic diversity metrics to better understand the impacts of restoration and
+            global change on different metrics of biodiversity.         
             
     - title: "Local Adaptations in Restoration"
       image:
-          name: JustinLICOR.jpg
-          alt: Picture of stipa
+          name: PoppyCoastalSeeds.jpg
+          alt: Picture of Eschscholzia californica plants collected from different seed localities
           style: right
       content: |
           * The dominant restoration paradigm encourages that practitioners only use "locally" sourced plants because
@@ -52,8 +55,8 @@ sections:
           * I am currently working to understand how mid-term grassland restoration affects soil carbon         
     - title: "Long-term recovery of the endangered Nipomo Lupine (Fabaceae: *Lupinus nipomensis*)"
       image:
-          name: luni.jpg
-          alt: Picture of LuNi
+          name: Luong_LupinusNipomensis.jpg
+          alt: Picture of Lupinus nipomensis at an extant population
           style: center
       content: |
           * Studies have found that a majority of rare and endangered plant establishment efforts have failed due to an
