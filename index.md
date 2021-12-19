@@ -14,8 +14,6 @@ If you think we have similar research interests and would like to collaborate on
 
 
 
-<a class="twitter-timeline" href="https://twitter.com/JustinCLuong?ref_src=twsrc%5Etfw">Tweets by JustinCLuong</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <div class="row">
    <div class="col-md-4"></div>
    <div class="container">
