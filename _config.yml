@@ -21,9 +21,7 @@ plugins:             [
   # native plugins
   jekyll-sitemap,
   jekyll-feed,
-  jekyll-seo-tag,
-  # third-part plugins
-  jekyll-twitter-plugin
+  jekyll-seo-tag
 ]
 
 title:		           'Justin Luong'
