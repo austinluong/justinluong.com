@@ -27,7 +27,6 @@ plugins:             [
 title:		           'Justin Luong'
 description:	       'Ph.D Candidate'
 author:              'Justin Luong'
-baseurl:             /justinluong.com
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
