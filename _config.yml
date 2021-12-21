@@ -18,9 +18,11 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           none
 plugins:             [
+  # native plugins
   jekyll-sitemap,
   jekyll-feed,
   jekyll-seo-tag,
+  # third-part plugins
   jekyll-twitter-plugin
 ]
 
