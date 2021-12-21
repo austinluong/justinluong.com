@@ -9,7 +9,7 @@
       {% endif %}
 
       {% if item.url %}
-        <a href="{{ site.github.url }}/{{ path }}/{{ item.url }}">{{ item.name }}</a>
+        <a href="{{ site.baseurl }}/{{ path }}/{{ item.url }}">{{ item.name }}</a>
       {% else %}
       <div class="dropdown">
         <span>
@@ -17,7 +17,7 @@
         </span>
           <div class="dropdown-content">
             {% for subitem in item.submenu %}
-              <a href="{{ site.github.url }}/{{ path }}/{{ subitem.url }}">{{ subitem.name }}</a>
+              <a href="{{ site.baseurl }}/{{ path }}/{{ subitem.url }}">{{ subitem.name }}</a>
             {% endfor %}
           </div>
       </div>

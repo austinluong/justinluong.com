@@ -10,27 +10,4 @@ Aside from my dissertation research I am also interested in how restoration affe
 
 I am also a research affiliate at the Cheadle Center for Biodiversity and Ecological Restoration (CCBER) at UC Santa Barbara where I work on understanding the effects of restoration on insect communities. I serve on the Board of the California Native Grassland Association (CNGA) as a Director-at-Large and also am part of the active USFWS Nipomo Lupine Endangered Species Recovery Team. 
 
-If you think we have similar research interests and would like to collaborate on a project please feel free to contact me at greenjustinluong@gmail.com or jluong4@ucsc.edu.  
-
-
-
-<div class="row">
-   <div class="col-md-4"></div>
-   <div class="container">
-      <div class="col-md-4">
-         <div class="panel panel-danger">
-            <div class="panel-heading">
-               <h3 class="panel-title"><i class="fa fa-twitter-square" aria-hidden="true"></i>
-                  Justin Luong Live
-               </h3>
-            </div>
-            <div class="panel-body">
-               <a class="twitter-timeline" data-width="100%" href="https://twitter.com/JustinCLuong?ref_src=twsrc%5Etfw">Tweets by JustinCLuong</a> 
-            </div>
-         </div>
-      </div>
-   </div>
-   <div class="col-md-4">
-   </div>
-</div>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+If you think we have similar research interests and would like to collaborate on a project please feel free to contact me at greenjustinluong@gmail.com or jluong4@ucsc.edu.

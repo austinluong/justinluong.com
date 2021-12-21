@@ -2,12 +2,16 @@
 layout: page
 ---
 <div style="display: flex;">
-    <img alt="Picture of me"
-         src="{{ site.github.url }}/assets/img/{{ page.field_image }}"
-         style="flex: 1; max-width: 28.5%; align-self: center; valign: top; margin-right: 2em"/>
+	<div style="flex: 1; margin-right: 2em">
+	    <img alt="Picture of me"
+	         src="{{ site.baseurl }}/assets/img/{{ page.field_image }}"
+	    />
+
+	    {% twitter https://twitter.com/JustinCLuong limit=5 %}
+	</div>
 
     <div style="flex: 2.5;">
-        {{ content | markdownify }}       
-        
+        {{ content | markdownify }}
     </div>
+
 </div>
