@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+<sup>+</sup>Motta CI, **Luong JC**, Seltmann KC. 2022. Plant-arthropod interactions of an endangered California lupine. *Ecology and Evolution*. 
 
 **Luong JC**, Holl KD, Loik ME. 2021. Leaf traits and phylogeny explain plant survival and community dynamics in response
 to extreme drought in a restored coastal grassland. *Journal of Applied Ecology 58*(8): 1670-1680. 
@@ -20,3 +21,5 @@ when reintroducing endemic plants during coastal dune restoration. *Journal of C
 **Luong JC**, Turner PL, Phillipson CN, Seltmann KC. 2019. Local grassland restoration affects insect communities.
 *Ecological Entomology 44*(4): 471-479. <https://doi.org/10.1111/een.12721>  
 [View pdf]({{site.baseurl}}/assets/pdf/Luong_et_al-2019-Ecological_Entomology.pdf)
+
+<sup>+</sup>Mentorship paper
