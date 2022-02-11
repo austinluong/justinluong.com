@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 ---
+**Luong JC**. Non-periodic grassland restoration management can promote native woody shrub encroachment. *Restoration Ecology*.   
+
 <sup>+</sup>Motta CI, **Luong JC**, Seltmann KC. 2022. Plant-arthropod interactions of an endangered California lupine. *Ecology and Evolution*. 
 
 **Luong JC**, Holl KD, Loik ME. 2021. Leaf traits and phylogeny explain plant survival and community dynamics in response
