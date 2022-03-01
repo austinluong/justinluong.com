@@ -189,7 +189,7 @@ Duties: Oversee grassland and wetland restoration activities; coordinate and tra
 ## Affiliations
 
 **USFWS Nipomo Lupine Endangered Species Recovery Team**
-*Species Expert*  
+[*Species Expert*]({{site.baseurl}}/assets/pdf/2021RecoveryPlan.pdf)
 2019-Present  
 
 **California Native Plant Society (CNPS)**
