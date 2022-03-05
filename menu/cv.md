@@ -16,34 +16,6 @@ External Committee: Dr. Katharine Suding (University of Colorado, Boulder)
 *University of California, Santa Barbara, CA*  
 Focus: Restoration Ecology
 
-
----------
-## Teaching Experience
-
-
-*Environmental Studies*  
-**University of California Santa Cruz**, 2018 - Present  
-Position: Teaching Assistant  
-Courses:
-* Environmental Earth Systems (ENVS 23) – 1 quarter
-* Society and Environment (ENVS 100) - 1 quarter
-* Conservation Biology (ENVS 120) - 1 quarter
-* Environmental Senior Capstone (ENVS 190) – 1 quarter
-
-*Biology: Ecology and Evolution*  
-**University of California Santa Cruz**, 2018  
-Position: Teaching Assistant  
-Courses:
-* Ecology and Evolution (BIOE 20C) – 1 quarter
-
-*The Cheadle Center of Biodiversity and Ecological Restoration*  
-**UC Santa Barbara**, 2015-2017  
-1) Position: Field Restoration Ecologist and Coordinator  
-Teaching Goals: 1. Demonstrate the application of ecological concepts in the field and real world applicability and 2. Teach natural history of coastal ecosystem flora and fauna
-2) Position: Research Affiliate
-2017-Present
-
-
 --------------------
 ## Awards and Grants
 *	UCSC Graduate Student Cultivation Grant, 2021
@@ -51,6 +23,7 @@ Teaching Goals: 1. Demonstrate the application of ecological concepts in the fie
 *	UCSC Graduate Student Association Cultivation Grant, 2021
 *	ARCS Foundation Scholarship – Northern California Chapter, 2021
 *	UC Santa Cruz Quarter-Dissertation-Year Fellowship, 2021
+*	California Dept Food and Ag. 2020 Healthy Soils Program, 2020
 *	Hardman Native Plant Award, 2020
 * UC Santa Cruz Plant Sciences Student Greenhouse Award, 2020
 * Radical Resilience Initiative Grant, 2020
@@ -79,31 +52,32 @@ UNDERGRAD GRANTS RECEIVED BY MENTEES
 * Cooley Environmental Research Award, UCSC, 2019 (×2), 2020
 * Keeley Coastal Scholars Award, UCSC, 2019
 
---------------------
-## Mentorship
-* Elisha Villanueva, undergrad, (2021-Present)  
-* Emma Houle, undergrad, (2020-Present)  
-* Ernesto Chavez-Velasco, undergrad and professional, (2020-Present)  
- *senior thesis: "Responses of Functional Leaf Traits to Fog & Drought are Greater  
-  for Native Coastal California Grassland than Coastal Agricultural Species"*    
-* Carina Motta, undergrad and master's, (2020-Present)  
-* Tori Bauman, undergrad, (2020)  
- *senior thesis: "Coastal Prairie Bunchgrass Response to Trail Disturbance"*
-* Hallie Holmes, undergrad, (2018-2020)  
- *senior thesis: "The Effects of Coastal Prairie Restoration and Experimental  
-  Drought on Soil Carbon Content"*  
-* Justin Xie, undergrad, (2019-2020)  
-* Juan Carlos Moso, undergrad (2019-2020)  
-* Emma Clabby, undergrad (2019-2020)  
-* Janine Anne Tan, undergrad, (2018-Present)  
-* Eric Kim, undergrad and professional, (2017-2021)  
-* Chris Orozco, undergrad and professional, (2017-2021)  
-* Katie Lefley, undergrad and professional, (2017-2021)  
-* Barry Lao, undergrad, (2017-2018)  
-* Chelsea Chung, undergrad, (2017-2018)  
-* Elijah Baker, undergrad and professional, (2016-2021)  
-* Celina Phillipson, undergrad and professional, (2016-2021)  
 
+---------
+## Teaching Experience
+
+
+*Environmental Studies*  
+**University of California Santa Cruz**, 2018 - Present  
+Position: Teaching Assistant  
+Courses:
+* Environmental Earth Systems (ENVS 23) – 1 quarter
+* Society and Environment (ENVS 100) - 1 quarter
+* Conservation Biology (ENVS 120) - 1 quarter
+* Environmental Senior Capstone (ENVS 190) – 1 quarter
+
+*Biology: Ecology and Evolution*  
+**University of California Santa Cruz**, 2018  
+Position: Teaching Assistant  
+Courses:
+* Ecology and Evolution (BIOE 20C) – 1 quarter
+
+*The Cheadle Center of Biodiversity and Ecological Restoration*  
+**UC Santa Barbara**, 2015-2017  
+1) Position: Field Restoration Ecologist and Coordinator  
+Teaching Goals: 1. Demonstrate the application of ecological concepts in the field and real world applicability and 2. Teach natural history of coastal ecosystem flora and fauna
+2) Position: Research Affiliate
+2017-Present
 
 
 
@@ -244,9 +218,38 @@ Duties: Organize student poster contest and provide input on section decisions.
 *Reviewer*  
 Publon ID - [AAK-2150-2020](https://publons.com/researcher/3532491/justin-luong/)  
 * Ecology and Evolution - 3  
+* Ecological Solutions and Evidence - 1  
 * Journal of Plant and Soil Science - 1  
+* Land Degradation and Development - 1  
 * Madroño - 1  
 * Restoration Ecology - 1  
+
+
+--------------------
+## Mentorship
+* Elisha Villanueva, undergrad, (2021-Present)  
+* Emma Houle, undergrad, (2020-Present)  
+* Ernesto Chavez-Velasco, undergrad and professional, (2020-Present)  
+ *senior thesis: "Responses of Functional Leaf Traits to Fog & Drought are Greater  
+  for Native Coastal California Grassland than Coastal Agricultural Species"*    
+* Carina Motta, undergrad and master's, (2020-Present)  
+* Tori Bauman, undergrad, (2020)  
+ *senior thesis: "Coastal Prairie Bunchgrass Response to Trail Disturbance"*
+* Hallie Holmes, undergrad, (2018-2020)  
+ *senior thesis: "The Effects of Coastal Prairie Restoration and Experimental  
+  Drought on Soil Carbon Content"*  
+* Justin Xie, undergrad, (2019-2020)  
+* Juan Carlos Moso, undergrad (2019-2020)  
+* Emma Clabby, undergrad (2019-2020)  
+* Janine Anne Tan, undergrad, (2018-Present)  
+* Eric Kim, undergrad and professional, (2017-2021)  
+* Chris Orozco, undergrad and professional, (2017-2021)  
+* Katie Lefley, undergrad and professional, (2017-2021)  
+* Barry Lao, undergrad, (2017-2018)  
+* Chelsea Chung, undergrad, (2017-2018)  
+* Elijah Baker, undergrad and professional, (2016-2021)  
+* Celina Phillipson, undergrad and professional, (2016-2021)  
+
 
 
 --------------------
