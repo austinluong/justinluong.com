@@ -2,12 +2,12 @@
 layout: page
 title: Publications
 ---
-7) **Luong JC**, Loik ME. Adjustments in physiological and morphological traits suggest drought-induced competitive
+7) **Luong JC**, Loik ME. 2022. Adjustments in physiological and morphological traits suggest drought-induced competitive
 release of some California plants. *Ecology and Evolution 12*(4): e8773.     
 <https://doi.org/10.1002/ece3.8773>  
 [View pdf]({{site.baseurl}}/assets/pdf/LuongLoik2022EcologyEvolution.pdf)  
 
-6) **Luong JC**. Non-periodic grassland restoration management can promote native woody shrub encroachment. *Restoration Ecology*.   
+6) **Luong JC**. 2022. Non-periodic grassland restoration management can promote native woody shrub encroachment. *Restoration Ecology*.   
 <https://doi.org/10.1111/rec.13650>  
 [View pdf]({{site.baseurl}}/assets/pdf/Luong2022_Nonperiodic grassland restoration management can promote native woody shrub.pdf)  
 
