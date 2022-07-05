@@ -3,8 +3,10 @@ layout: page
 title: Curriculum Vitae
 ---
 --------------------
-## Academic History
-
+## Academic History and Appointments
+**USDA AFRI Postdoctoral Scholar**, 2022-Present  
+*University of California, Davis, CA*  
+Focus: Invasion Ecology & Secondary Invasions  
 
 **Doctor of Philosophy in Environmental Studies**, 2017-2022  
 *University of California Santa Cruz, CA*  
@@ -18,6 +20,10 @@ Focus: Restoration Ecology
 
 --------------------
 ## Awards and Grants
+* UCSC Environmental Studies Experiential Learning & Research Grant, 2022
+* National Science Foundation PRFB (Declined to accept USDA), 2022	($138,000)
+* UCSC Graduate Dean’s Travel and Research Grant , 2022	
+* U.S. Department of Agriculture – Agricultural and Food Initiative Postdoctoral Fellowship, 2022	($216,900)
 *	UCSC Graduate Student Cultivation Grant, 2021
 *	Building Better Belongings Program Undergraduate Research, 2021
 *	UCSC Graduate Student Association Cultivation Grant, 2021
@@ -44,6 +50,7 @@ Focus: Restoration Ecology
 
 
 UNDERGRAD GRANTS RECEIVED BY MENTEES
+* Earth Futures Institute Frontier Fellowship, 2022		
 * UCSC Plant Sciences Student Greenhouse Award, 2020, 2021
 * California Native Grassland Association Student Research Grant, 2021
 * Paul Silva Student Award, California Botanical Society, 2020
@@ -140,7 +147,7 @@ Duties: Oversee grassland and wetland restoration activities; coordinate and tra
 ## Boards and Committees
 
 **Environmental Studies Grant Review Committee**  
-2018 – Present  
+2018 – 2020  
 
 **USFWS Nipomo Lupine Endangered Species Recovery Team**  
 2019 – Present  
@@ -149,10 +156,10 @@ Duties: Oversee grassland and wetland restoration activities; coordinate and tra
 2020 – Present  
 
 **UCSC Ken Norris Natural History Center Diversity, Equity, and Inclusion Committee**  
-2020 – Present  
+2020 – 2023  
 
 **UCSC Environmental Studies BIPOC Resilience Graduate Committee**  
-2020 – Present  
+2020 – 2022  
 
 **California Native Grassland Association**  
 *Director-at-Large*  
@@ -217,18 +224,22 @@ Duties: Organize student poster contest and provide input on section decisions.
 **Various Journals**  
 *Reviewer*  
 Publon ID - [AAK-2150-2020](https://publons.com/researcher/3532491/justin-luong/)  
-* Ecology and Evolution - 3  
+* Ecology and Evolution - 4  
 * Ecological Solutions and Evidence - 1  
 * Journal of Plant and Soil Science - 1  
 * Land Degradation and Development - 1  
 * Madroño - 1  
-* Restoration Ecology - 1  
+* Restoration Ecology - 3  
 
 
 --------------------
 ## Mentorship
+* Peter Nguyen, undergrad, (2021-Present)  
+* Jennifer Valadez, undergrad, (2021-Present)  
+* Leisha Devisetti, high schooler, (2021-Present)  
+* Nick Mazzotti, undergrad, (2021-Present)  
 * Elisha Villanueva, undergrad, (2021-Present)  
-* Emma Houle, undergrad, (2020-Present)  
+* Emma Houle, undergrad, (2020-2022)  
 * Ernesto Chavez-Velasco, undergrad and professional, (2020-Present)  
  *senior thesis: "Responses of Functional Leaf Traits to Fog & Drought are Greater  
   for Native Coastal California Grassland than Coastal Agricultural Species"*    
