@@ -15,9 +15,14 @@ Art by [Lesley Goren](https://www.lesleygoren.com/) published in Grasslands by C
 
 ### Environmental adaptations of California plants to drought and invasive competition  
 ![Preview]({{site.baseurl}}/assets/img/CompReleasePreview250.jpg)  
-*Under Revisions*  
+[Published in Ecology and Evolution](https://doi.org/10.1002/ece3.8773)  
 Art by [Vicky Cheung]  
 [View PDF]({{site.baseurl}}/assets/pdf/VickyCheung_EnvAdaptationsofCAPlants.pdf)  
+
+### Environmental adaptations of California plants to drought and invasive competition  
+[Published in Ecological Entomology](https://doi.org/10.1111/een.12721)  
+Art by [Vicky Cheung]  
+[View PDF]({{site.baseurl}}/assets/pdf/VickyCheung_Localgrasslandrestorationaffectsinsects.pdf)  
 
 
 
