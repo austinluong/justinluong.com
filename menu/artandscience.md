@@ -19,7 +19,7 @@ Art by [Lesley Goren](https://www.lesleygoren.com/) published in Grasslands by C
 Art by [Vicky Cheung]  
 [View PDF]({{site.baseurl}}/assets/pdf/VickyCheung_EnvAdaptationsofCAPlants.pdf)  
 
-### Environmental adaptations of California plants to drought and invasive competition  
+### Local grassland restoration affects insect communities  
 ![Preview]({{site.baseurl}}/assets/img/LGRAICPreview250.jpg)  
 [Published in Ecological Entomology](https://doi.org/10.1111/een.12721)  
 Art by [Vicky Cheung]  
