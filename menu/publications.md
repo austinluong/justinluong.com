@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 9) Toone TA, Ahler SJ, Larson JE, **Luong JC**, Martinez-Baena F, Ordóñez-Parra CA, Silva MC, van der Ouderaa IBC. Inclusive restoration: Ten recommendations to support LGBTQ+ researchers in restoration science. *Restoration Ecology*  
-<[https://onlinelibrary.wiley.com/doi/epdf/10.1111/rec.13743](https://doi.org/10.1111/rec.13743)>  
-[PDF coming soon!]  
+<https://doi.org/10.1111/rec.13743>  
+[View pdf]({{site.baseurl}}/assets/pdf/TooneAhlerLarsonLuong..etal2022RestorationEcologyLGBTQInclusivity.pdf)   
 
 8) Holl KD, **Luong JC**, Brancalion PHS. Overcoming biotic homogenization in ecological restoration. *Trends in Ecology and Evolution.*    
 <https://doi.org/10.1016/j.tree.2022.05.002>  
