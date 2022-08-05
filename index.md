@@ -8,6 +8,6 @@ Dr. Justin C. Luong is a USDA Agriculture and Food Research Initiative postdocto
 
 Justin completed his PhD at the University of California Santa Cruz where he focused understanding restoration outcomes across the state using a combination of plant surveys and management surveys to understand how decision making and lived-experiences contribute to vegetation community dynamics. Justin specializes in the use of functional traits, phylogenetics, and ecophysiology to assess how plant responses will change with changing climates in an effort to determine how to adjust restoration practices and maximize success during drought and plant invasion. Justin has experience and interest in working to understand the role of disturbance, especially controlled burns, in restoration management. He also has worked with several common garden experiments and has a keen interest in understanding the importance of local adaptation across species, populations and plant communities. 
 
-Currently I am searching for potential collaborators for an invasion experiment. If you are interested in learning more please contact at me the emails below.
+Currently I am searching for potential collaborators for an invasion experiment. If you are interested in learning more please contact me at one of the emails below.
 
 If you think we have similar research interests and would like to collaborate on a project please feel free to contact me at jcluong@ucdavis.edu or jluong4@ucsc.edu - You can also reach me at justinluong@gmail.com
