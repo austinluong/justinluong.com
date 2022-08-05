@@ -24,8 +24,8 @@ plugins:             [
   jekyll-seo-tag
 ]
 
-title:		           'Justin Luong'
-description:	       'Ph.D Candidate'
+title:		           'Justin C. Luong'
+description:	       'Ph.D'
 author:              'Justin Luong'
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
