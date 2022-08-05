@@ -2,20 +2,20 @@
 layout: page
 title: Publications
 ---
-9) Toone TA, Ahler SJ, Larson JE, **Luong JC**, Martinez-Baena F, Ordóñez-Parra CA, Silva MC, van der Ouderaa IBC. Inclusive restoration: Ten recommendations to support LGBTQ+ researchers in restoration science. *Restoration Ecology*  
+9) Toone TA, Ahler SJ, Larson JE, **Luong JC**, Martinez-Baena F, Ordóñez-Parra CA, Silva MC, van der Ouderaa IBC. Inclusive restoration: Ten recommendations to support LGBTQ+ researchers in restoration science. *Restoration Ecology*. 
 <https://doi.org/10.1111/rec.13743>  
 [View pdf]({{site.baseurl}}/assets/pdf/TooneAhlerLarsonLuong..etal2022RestorationEcologyLGBTQInclusivity.pdf)   
 
-8) Holl KD, **Luong JC**, Brancalion PHS. Overcoming biotic homogenization in ecological restoration. *Trends in Ecology and Evolution.*    
+8) Holl KD, **Luong JC**, Brancalion PHS. Overcoming biotic homogenization in ecological restoration. *Trends in Ecology and Evolution.* 
 <https://doi.org/10.1016/j.tree.2022.05.002>  
 [View pdf]({{site.baseurl}}/assets/pdf/Holl et al. - Biotic homogenization - 2022.pdf)  
 
 7) **Luong JC**, Loik ME. 2022. Adjustments in physiological and morphological traits suggest drought-induced competitive
-release of some California plants. *Ecology and Evolution 12*(4): e8773.     
+release of some California plants. *Ecology and Evolution 12*(4): e8773. 
 <https://doi.org/10.1002/ece3.8773>  
 [View pdf]({{site.baseurl}}/assets/pdf/LuongLoik2022EcologyEvolution.pdf)  
 
-6) **Luong JC**. 2022. Non-periodic grassland restoration management can promote native woody shrub encroachment. *Restoration Ecology*.   
+6) **Luong JC**. 2022. Non-periodic grassland restoration management can promote native woody shrub encroachment. *Restoration Ecology*. 
 <https://doi.org/10.1111/rec.13650>  
 [View pdf]({{site.baseurl}}/assets/pdf/Luong2022_Nonperiodic grassland restoration management can promote native woody shrub.pdf)  
 
