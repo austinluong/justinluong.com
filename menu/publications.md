@@ -2,6 +2,9 @@
 layout: page
 title: Publications
 ---
+10) <sup>#</sup>**Luong JC**, Villanueva EM, Bauman TA. Native and invasive bunchgrasses have different responses to trail disturbance on California coastal prairies. *Plant Ecology*.  
+11) <https://doi.org/10.1007/s11258-022-01284-z> 
+
 9) Toone TA, Ahler SJ, Larson JE, **Luong JC**, Martinez-Baena F, Ordóñez-Parra CA, Silva MC, van der Ouderaa IBC. Inclusive restoration: Ten recommendations to support LGBTQ+ researchers in restoration science. *Restoration Ecology*. 
 <https://doi.org/10.1111/rec.13743>  
 [View pdf]({{site.baseurl}}/assets/pdf/TooneAhlerLarsonLuong..etal2022RestorationEcologyLGBTQInclusivity.pdf)   
@@ -41,3 +44,4 @@ when reintroducing endemic plants during coastal dune restoration. *Journal of C
 [View pdf]({{site.baseurl}}/assets/pdf/Luong_et_al-2019-Ecological_Entomology.pdf)
 
 <sup>+</sup>Mentorship paper
+<sup>#</sup>Published with undergrads
