@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 ---
+11) **Luong JC**, Press DM, Holl KD. Lessons learned from an interdisciplinary evaluation of long-term restoration outcomes on 37 restored coastal grasslands in California. Biological Conservation 280(109956). <https://doi.org/10.1016/j.biocon.2023.109956>  
+
 10) <sup>#</sup>**Luong JC**, Villanueva EM, Bauman TA. Native and invasive bunchgrasses have different responses to trail disturbance on California coastal prairies. *Plant Ecology*. <https://doi.org/10.1007/s11258-022-01284-z>  
 
 9) Toone TA, Ahler SJ, Larson JE, **Luong JC**, Martinez-Baena F, Ordóñez-Parra CA, Silva MC, van der Ouderaa IBC. Inclusive restoration: Ten recommendations to support LGBTQ+ researchers in restoration science. *Restoration Ecology*. 
