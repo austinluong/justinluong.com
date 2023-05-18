@@ -10,7 +10,7 @@ To provide different modes of communicating science, I work with artists that cr
 ###  Leaf traits and phylogeny explain plant survival and community dynamics in response to extreme drought in a restored coastal grassland  
 ![Preview]({{site.baseurl}}/assets/img/CP_ConclusionSq250.jpg)  
 [Published in Journal of Applied Ecology](https://doi.org/10.1111/1365-2664.13909)  
-Art by [Lesley Goren](https://www.lesleygoren.com/) published in Grasslands by California Native Grassland Association\
+Art by [Lesley Goren](https://www.lesleygoren.com/) published in Grasslands by California Native Grassland Association  
 [View PDF]({{site.baseurl}}/assets/pdf/Luong Grasslands Vol 30 No 4 Ch 1 graphical summary (1).pdf)  
 
 ### Environmental adaptations of California plants to drought and invasive competition  
@@ -22,8 +22,20 @@ Art by [Vicky Cheung]
 ### Local grassland restoration affects insect communities  
 ![Preview]({{site.baseurl}}/assets/img/LGRAICPreview250.jpg)  
 [Published in Ecological Entomology](https://doi.org/10.1111/een.12721)  
-Art by [Vicky Cheung]  
+Art by [Vicky Cheung]  published in Grasslands by California Native Grassland Association  
 [View PDF]({{site.baseurl}}/assets/pdf/VickyCheung_Localgrasslandrestorationaffectsinsects.pdf)  
+
+# Infographics
+
+### Selecting coastal California prairie species for climate-smart grassland restoration  
+[Published in Grasslands]()  
+Art by [Mia Rassam]  
+[View PDF]({{site.baseurl}}/assets/pdf/Infographic_Rassam_Selecting coastal California prairie species for climate-smart grassland restoration.pdf)  
+
+### Non-periodic grassland restoration management can promote native woody shrub encroachment
+[Published in Restoration Ecology](https://doi.org/10.1111/rec.13650)  
+Art by [Mia Rassam]  
+[View PDF]({{site.baseurl}}/assets/pdf/Infographic_Rassam_Selecting coastal California prairie species for climate-smart grassland restoration.pdf)  
 
 
 
