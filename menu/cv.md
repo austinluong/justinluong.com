@@ -4,7 +4,11 @@ title: Curriculum Vitae
 ---
 --------------------
 ## Academic History and Appointments
-**USDA AFRI Postdoctoral Scholar**, 2022-Present  
+**Assistant Professor**, 2023-**Present**  
+*California Polytechnic University Humboldt, Arcata, CA*  
+ *Department of Forestry, Fire and Rangeland Management*  
+
+**USDA AFRI Postdoctoral Scholar**, 2022-2023  
 *University of California, Davis, CA*  
 Focus: Invasion Ecology & Secondary Invasions  
 
@@ -20,6 +24,7 @@ Focus: Restoration Ecology
 
 --------------------
 ## Awards and Grants
+*California Farm Bureau Conservation Grazing Fund, 2023 ($520,000)
 * UCSC Environmental Studies Experiential Learning & Research Grant, 2022
 * National Science Foundation PRFB (Declined to accept USDA), 2022	($138,000)
 * UCSC Graduate Dean’s Travel and Research Grant , 2022	
@@ -60,45 +65,22 @@ UNDERGRAD GRANTS RECEIVED BY MENTEES
 * Keeley Coastal Scholars Award, UCSC, 2019
 
 
----------
-## Teaching Experience
-
-
-*Environmental Studies*  
-**University of California Santa Cruz**, 2018 - Present  
-Position: Teaching Assistant  
-Courses:
-* Environmental Earth Systems (ENVS 23) – 1 quarter
-* Society and Environment (ENVS 100) - 1 quarter
-* Conservation Biology (ENVS 120) - 1 quarter
-* Environmental Senior Capstone (ENVS 190) – 1 quarter
-
-*Biology: Ecology and Evolution*  
-**University of California Santa Cruz**, 2018  
-Position: Teaching Assistant  
-Courses:
-* Ecology and Evolution (BIOE 20C) – 1 quarter
-
-*The Cheadle Center of Biodiversity and Ecological Restoration*  
-**UC Santa Barbara**, 2015-2017  
-1) Position: Field Restoration Ecologist and Coordinator  
-Teaching Goals: 1. Demonstrate the application of ecological concepts in the field and real world applicability and 2. Teach natural history of coastal ecosystem flora and fauna
-2) Position: Research Affiliate
-2017-Present
-
-
 
 --------------------
 ## Professional Experience
 
+**Luong Restoration and Ecology Internship Program**  
+Cal Poly Humboldt, CA 2018-Present  
+*Research Mentor and Program Administer*  
+Duties: Mentor 3-15 undergraduate students any given school quarter about ecological research; teach students to complete lab techniques and analysis and present their work in a professional research setting; assist students in completing thesis projects and apply for small grants to complete independent research
 
 **Humboldt State University**  
-Arcata, CA 2021-Present  
+Arcata, CA 2021-2023  
 *Research Analyst*  
 Duties: Analyze multiyear plant community data from Great Basin Sage Scrub and write and generate a research publication.  
 
 **Netflix Animation**  
-Los Angeles, CA 2021-Present  
+Los Angeles, CA 2021-2022  
 *Consulting Botanist*  
 Duties: Consult on California coastal botany and its relevance to the animation film project and intersection with queer identities.   
 
@@ -107,13 +89,8 @@ Monterey, CA 2020-Present
 *Consulting Ecologist*  
 Duties: Create and implement a vegetation monitoring plan for a newly designed grassland restoration project that will be used in conjunction with ranching and public access; conduct annual vegetation monitoring of restoration project; analyze soil samples taken using Loss on Ignition to determine soil organic and inorganic carbon
 
-**Luong Restoration and Ecology Internship Program**  
-UC Santa Cruz, CA 2018-Present  
-*Research Mentor and Program Administer*  
-Duties: Mentor 3-15 undergraduate students any given school quarter about ecological research; teach students to complete lab techniques and analysis and present their work in a professional research setting; assist students in completing thesis projects and apply for small grants to complete independent research
-
 **UC Santa Cruz Science Internship Program**  
-UC Santa Cruz, CA 2019-Present (summers only)  
+UC Santa Cruz, CA 2019-2022 (summers only)  
 *Research Mentor*  
 Duties: Mentor 3-4 high school students about ecological research; teach students to complete lab techniques and analysis and present their work in a professional research setting
 
@@ -123,7 +100,7 @@ UC Santa Cruz, CA 2018-2021
 Duties: Worked on various projects and tasks; for 3 months, I took high-quality macro-photos of insects for databasing and digitization; for 6 months I assisted in developing a public exhibit focused on “Santa Cruz Naturalists” with a specific focus on diversity, equity and inclusion within the Santa Cruz Naturalist community; for 3 months I managed two internship programs: one based on researching sensitive species within the local bioregion and another focused on decolonizing natural history museum practices
 
 **Watsonville Wetland Watch**  
-Freedom, CA 2018-Present (Spring and Summers)  
+Freedom, CA 2018-2022 (Spring and Summers)  
 *Consulting Ecologist*  
 Duties: Conduct annual vegetation monitoring and statistics for restoration sites completed by Watsonville Wetland Watch from sites that were retired from agriculture
 
@@ -234,16 +211,16 @@ Publon ID - [AAK-2150-2020](https://publons.com/researcher/3532491/justin-luong/
 
 --------------------
 ## Mentorship
-* Peter Nguyen, undergrad, (2021-Present)  
-* Jennifer Valadez, undergrad, (2021-Present)  
+* Peter Nguyen, undergrad, (2021-2023)  
+* Jennifer Valadez, undergrad, (2021-2023)  
 * Leisha Devisetti, high schooler, (2021-Present)  
-* Nick Mazzotti, undergrad, (2021-Present)  
-* Elisha Villanueva, undergrad, (2021-Present)  
+* Nick Mazzotti, undergrad, (2021-2023)  
+* Elisha Villanueva, undergrad, (2021-2023)  
 * Emma Houle, undergrad, (2020-2022)  
 * Ernesto Chavez-Velasco, undergrad and professional, (2020-Present)  
  *senior thesis: "Responses of Functional Leaf Traits to Fog & Drought are Greater  
   for Native Coastal California Grassland than Coastal Agricultural Species"*    
-* Carina Motta, undergrad and master's, (2020-Present)  
+* Carina Motta, undergrad and master's, (2020-2022)  
 * Tori Bauman, undergrad, (2020)  
  *senior thesis: "Coastal Prairie Bunchgrass Response to Trail Disturbance"*
 * Hallie Holmes, undergrad, (2018-2020)  
@@ -252,7 +229,7 @@ Publon ID - [AAK-2150-2020](https://publons.com/researcher/3532491/justin-luong/
 * Justin Xie, undergrad, (2019-2020)  
 * Juan Carlos Moso, undergrad (2019-2020)  
 * Emma Clabby, undergrad (2019-2020)  
-* Janine Anne Tan, undergrad, (2018-Present)  
+* Janine Anne Tan, undergrad, (2018-2022)  
 * Eric Kim, undergrad and professional, (2017-2021)  
 * Chris Orozco, undergrad and professional, (2017-2021)  
 * Katie Lefley, undergrad and professional, (2017-2021)  
@@ -265,6 +242,15 @@ Publon ID - [AAK-2150-2020](https://publons.com/researcher/3532491/justin-luong/
 
 --------------------
 ## Professional and Technical Reports (Grey and White Lit; available upon request)
+Stratton, L; Luong JC; Chapman DW. 2022. Nipomo Lupine (Lupinus nipomensis) 2021-22 Year Outplanting and Assessment Studies. Report Prepared for the USFWS – Ventura Office.  
+
+Stratton, L; Luong JC. 2022. Outplanting Field Experiment for Lupinus nipomensis Year 8 at Black Lake Ecological Area, Land Conservancy of San Luis Obispo County. Report Prepared for the USFWS – Ventura Office.  
+
+Luong, JC. 2022. Vegetation and Soil Report from Restoration Seeding and Compost Blanketing at Big Sur Land Trust’s Mark’s Ranch. Monitoring Report Prepared for the California Marine Sanctuary Foundation.  
+
+Luong, JC. 2022. Annual Report for California Endangered Species Act Scientific, Educational, or Management Permit (2081(a)-21-023-RP).  
+
+Luong, JC. 2021. Vegetation assessment of restored Watsonville Uplands prior to prescribed burning. Monitoring Report Prepared for the Watsonville Wetlands Watch.  
 
 Stratton, L; Luong JC; Chapman DW. 2021. Nipomo Lupine (Lupinus nipomensis) 2020-21 Year Outplanting and Assessment Studies. Report Prepared for the USFWS – Ventura Office.  
 
