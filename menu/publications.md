@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 ---
+12) Nolan MP, **Luong JC**, Valliere JM, Mazer SJ, D’Antonio CM. Rethinking local seed sourcing for the restoration of a foundational grass species in California. Restoration Ecology. <https://doi.org/10.1111/rec.13992>  
+
 11) **Luong JC**, Press DM, Holl KD. Lessons learned from an interdisciplinary evaluation of long-term restoration outcomes on 37 restored coastal grasslands in California. Biological Conservation 280(109956). <https://doi.org/10.1016/j.biocon.2023.109956>  
 
 10) <sup>#</sup>**Luong JC**, Villanueva EM, Bauman TA. Native and invasive bunchgrasses have different responses to trail disturbance on California coastal prairies. *Plant Ecology*. <https://doi.org/10.1007/s11258-022-01284-z>  
