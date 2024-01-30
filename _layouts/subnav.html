@@ -1,5 +1,132 @@
-<div id="navbar">
-  <a href="index.md">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333; 
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: green;
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  left: 0;
+  background-color: green;
+  width: 100%;
+  z-index: 1;
+}
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+.subnav:hover .subnav-content {
+  display: block;
+}
+
+</style>
+</head>
+<body>
+<div class="navbar">
+  <div class="subnav">
+  <button class="subnavbtn">Home <i class="fa fa-caret-down"></i></button>
+  <div class="subnav-content">
+     <a href="#naturalresources">Natural Resources</a>
+     <a href="#labDEIactionplan">Lab DEI Action Plan</a>
+     <a href="#quicklinkstojoin">Quick Links to Join</a> 
+  </div>    
 </div>
+  <div class="subnav">    
+    <button class="subnavbtn">Teaching and outreach <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#youtubevideos">Youtube Videos</a>
+      <a href="#allclasses">All Classes</a>
+      <a href="#handoutsandresources">Handouts/Resources</a>
+      <a href="#newsletter">Newsletter</a>
+      <a href="#survey">Survey for Practioners</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Research <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#currentprojects">Current Projects</a>
+      <a href="#pastprojects">Past Projects</a>
+      <a href="#artandscience">Art + Science</a>
+      <a href="#Publications">Publications</a>
+    </div>
+  </div> 
+  <div class="subnav">
+    <button class="subnavbtn">People <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#labmembers">Lab Members</a>
+      <a href="#Dr.JustinLuong">Dr. Justin Luong</a>
+    </div>
+  </div>
+  <div class="subnav">
+    <button class="subnavbtn">Prospective Students <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#internshipopportunities">Internship Opportunities</a>
+      <a href="#statement">Grad Student Statement</a>
+      <a href="#teaching">Teaching + Outreach</a>
+    </div>
+  </div>
+    <div class="subnav">
+    <button class="subnavbtn">Other Resources <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="#labpolicies">Lab Policies</a>
+      <a href="#otherresourceslinkindrive">Other Resources</a>
+      <a href="#labprotocols">Lab Protocols</a>
+      <a href="#requiredlabtraining">Required Lab Taining</a>
+      <a href="#linktospfforms">SPF Forms</a>
+      <a href="#letterofrecrequirements">Letter of reccomendation requirements</a>
+    </div>
+  </div>
+    <a href="#contact">Contact</a>
+  </div>
+</div>
+
+</body>
+</html>
