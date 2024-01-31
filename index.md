@@ -12,4 +12,6 @@ Research in Dr. Luong's lab focuses on adapting restoration practices for changi
 
 We are part of the [Cal Poly Humboldt Natural Resources & Sciences Department](https://cnrs.humboldt.edu/)
 
+Check out the [Luong Lab DEI Action Plan](https://docs.google.com/document/d/1RVHRP_jJqwDWBOIRaE78yCK5Q4iO7_UxVKMFNqwbh6c/edit?usp=sharing)
+
 Quick Links
