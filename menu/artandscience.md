@@ -25,6 +25,12 @@ Art by [Vicky Cheung]
 Art by [Vicky Cheung]  published in Grasslands by California Native Grassland Association  
 [View PDF]({{site.baseurl}}/assets/pdf/VickyCheung_Localgrasslandrestorationaffectsinsects.pdf)  
 
+### Native and invasive bunchgrasses have different responses to trail disturbance on California coastal prairies
+[Published in Plant Ecology](https://doi.org/10.1007/s11258-022-01284-z)
+Art by [Garret Urban]
+[View PDF]({{site.baseurl}}/assets/pdf/TrailDisturbance-GarretUrban.pdf)
+
+
 # Infographics
 
 ### Selecting coastal California prairie species for climate-smart grassland restoration  
