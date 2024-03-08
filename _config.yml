@@ -24,8 +24,8 @@ plugins:             [
   jekyll-seo-tag
 ]
 
-title:		           'Justin C. Luong'
-description:	       'Ph.D'
+title:		           'Luong Restoration & Rangeland Ecology Lab'
+description:	       'Cal Poly Humboldt College of Natural Resources & Sciences'
 author:              'Justin Luong'
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
