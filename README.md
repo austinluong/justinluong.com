@@ -1,4 +1,4 @@
-# Luonglab
-Lab Website for Luong Restoration and Rangeland Ecogoly Lab
+# justinluong
+Personal Website for Justin Luong.
 
 Uses https://jekyllrb.com/

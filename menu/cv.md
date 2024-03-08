@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Curriculum Vitae
-field_image: IMG_7271.jpeg
 ---
 --------------------
 ## Academic History and Appointments
