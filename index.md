@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Home
+image: about-page.jpg
+field_image: IMG_7271.jpeg
 ---
 Welcome! 
 ---
