@@ -25,7 +25,7 @@ plugins:             [
 ]
 
 title:		           'Luong Restoration & Rangeland Ecology Lab'  
-description:	       'Cal Poly Humboldt College of Natural Resources & Sciences'
+description:	         'Cal Poly Humboldt College of Natural Resources & Sciences'
 author:              'Justin Luong'
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
