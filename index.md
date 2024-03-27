@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-image: about-page.jpg
+image: lab.png
 ---
 Welcome! 
 ---
