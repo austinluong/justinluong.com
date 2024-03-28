@@ -1,4 +1,3 @@
----
 layout: current-research
 title:  Current Research
 sections:
