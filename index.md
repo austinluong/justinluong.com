@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-image: about-page.jpg
+image: lab.png
 ---
 Welcome! 
 ---
@@ -14,5 +14,6 @@ We are part of the [Cal Poly Humboldt Natural Resources & Sciences Department](h
 
 Check out the [Luong Lab DEI Action Plan](https://docs.google.com/document/d/1RVHRP_jJqwDWBOIRaE78yCK5Q4iO7_UxVKMFNqwbh6c/edit?usp=sharing)
 
-Job Opening: [Spring Field Tech](https://docs.google.com/document/d/1ViwgF027lEFQj7xx26L9jpcv1uONYElBYMVarRXpT_k/edit?usp=sharing)
+![](about-page.jpg)
+
 
