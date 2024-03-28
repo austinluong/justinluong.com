@@ -4,7 +4,7 @@ title:  Current Research
 sections:
     - title: "Exploring the Effects of Grazing on California Grasslands"
       image:
-          name: willits.png
+          name: willits.jpg
           alt: A pasture on our experiment site in Willits California 
           style: right
       content: |
