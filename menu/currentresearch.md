@@ -1,5 +1,6 @@
+---
 layout: current-research
-title:  Current Research
+title: Current Research
 sections:
     - title: "Exploring the Effects of Grazing on California Grasslands"
       image:
