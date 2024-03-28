@@ -74,8 +74,6 @@ sections:
             trophic levels and ecosystem functioning, but is rarely assessed
           * I work to understand how restoration affects insect communities and am currently focusing on coccinellids
           * I am currently working to understand how mid-term grassland restoration affects soil carbon         
----
-Past Research 
 
     - title: "Long-term recovery of the endangered Nipomo Lupine (Fabaceae: *Lupinus nipomensis*)"
       image:
