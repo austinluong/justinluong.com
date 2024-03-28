@@ -78,7 +78,6 @@ sections:
 layout: current-research
 title:  Past Research
 sections:
-    
     - title: "Long-term recovery of the endangered Nipomo Lupine (Fabaceae: *Lupinus nipomensis*)"
       image:
           name: Luong_LupinusNipomensis.jpg
