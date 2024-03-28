@@ -75,9 +75,8 @@ sections:
           * I work to understand how restoration affects insect communities and am currently focusing on coccinellids
           * I am currently working to understand how mid-term grassland restoration affects soil carbon         
 ---
-layout: current-research
-title:  Past Research
-sections:
+Past Research 
+
     - title: "Long-term recovery of the endangered Nipomo Lupine (Fabaceae: *Lupinus nipomensis*)"
       image:
           name: Luong_LupinusNipomensis.jpg
