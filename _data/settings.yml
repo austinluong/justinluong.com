@@ -10,7 +10,7 @@ menu:
     url: 'cv.html'
   - name: 'Publications'
     url: 'publications.html'
-  - name: 'Cuurent Research'
+  - name: 'Current Research'
     url: 'currentresearch.html'
   - name: 'People'
     url: 'presentations.html'
