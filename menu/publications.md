@@ -2,21 +2,21 @@
 layout: page
 title: Publications
 ---
-14) Yang X, Loik ME, Wu X, **Luong JC**, Wei X, Li L. Drought and vegetation restoration lead to shifts in soil microbial diversity and co‐occurrence networks in California coastal prairie. *Plant and Soil*. <https://doi.org/10.1007/s11104-024-06625-7>  
+14) Yang X, Loik ME, Wu X, **Luong JC**, Wei X, Li L. 2024. Drought and vegetation restoration lead to shifts in soil microbial diversity and co‐occurrence networks in California coastal prairie. *Plant and Soil*. <https://doi.org/10.1007/s11104-024-06625-7>  
 
 13) Medina-van Berkum P, Schmöckel E, Bischoff A, Carrasco-Farias N, Catford JA, Feldmann R, Groten K, Henry HAL, Bucharova A, Hänniger S, **Luong JC**, Oetama VSP, Pärtel M, Power SA, Villellas J, Welk E, Wingler A, Rothe B, Gershenzon J, Reichelt M, Roscher C, Unsicker SB. 2024. Plant geographic distribution influences chemical defences in native and introduced Plantago lanceolata populations. *Functional Ecology*. <https://doi.org/10.1111/1365-2435.14535>  
 
-12) Nolan MP, **Luong JC**, Valliere JM, Mazer SJ, D’Antonio CM. Rethinking local seed sourcing for the restoration of a foundational grass species in California. *Restoration Ecology*. <https://doi.org/10.1111/rec.13992>  
+12) Nolan MP, **Luong JC**, Valliere JM, Mazer SJ, D’Antonio CM. 2023. Rethinking local seed sourcing for the restoration of a foundational grass species in California. *Restoration Ecology*. <https://doi.org/10.1111/rec.13992>  
 
-11) **Luong JC**, Press DM, Holl KD. Lessons learned from an interdisciplinary evaluation of long-term restoration outcomes on 37 restored coastal grasslands in California. *Biological Conservation* 280(109956). <https://doi.org/10.1016/j.biocon.2023.109956>  
+11) **Luong JC**, Press DM, Holl KD. 2023. Lessons learned from an interdisciplinary evaluation of long-term restoration outcomes on 37 restored coastal grasslands in California. *Biological Conservation* 280(109956). <https://doi.org/10.1016/j.biocon.2023.109956>  
 
-10) <sup>#</sup>**Luong JC**, Villanueva EM, Bauman TA. Native and invasive bunchgrasses have different responses to trail disturbance on California coastal prairies. *Plant Ecology*. <https://doi.org/10.1007/s11258-022-01284-z>  
+10) <sup>#</sup>**Luong JC**, Villanueva EM, Bauman TA. 2023. Native and invasive bunchgrasses have different responses to trail disturbance on California coastal prairies. *Plant Ecology*. <https://doi.org/10.1007/s11258-022-01284-z>  
 
-9) Toone TA, Ahler SJ, Larson JE, **Luong JC**, Martinez-Baena F, Ordóñez-Parra CA, Silva MC, van der Ouderaa IBC. Inclusive restoration: Ten recommendations to support LGBTQ+ researchers in restoration science. *Restoration Ecology*. 
+9) Toone TA, Ahler SJ, Larson JE, **Luong JC**, Martinez-Baena F, Ordóñez-Parra CA, Silva MC, van der Ouderaa IBC. 2022. Inclusive restoration: Ten recommendations to support LGBTQ+ researchers in restoration science. *Restoration Ecology*. 
 <https://doi.org/10.1111/rec.13743>  
 [View pdf]({{site.baseurl}}/assets/pdf/TooneAhlerLarsonLuong..etal2022RestorationEcologyLGBTQInclusivity.pdf)   
 
-8) Holl KD, **Luong JC**, Brancalion PHS. Overcoming biotic homogenization in ecological restoration. *Trends in Ecology and Evolution.* 
+8) Holl KD, **Luong JC**, Brancalion PHS. 2022. Overcoming biotic homogenization in ecological restoration. *Trends in Ecology and Evolution.* 
 <https://doi.org/10.1016/j.tree.2022.05.002>  
 [View pdf]({{site.baseurl}}/assets/pdf/Holl et al. - Biotic homogenization - 2022.pdf)  
 
