@@ -2,6 +2,7 @@
 layout: home
 title: Home
 image: lab.png
+image: LabMarch24.png
 ---
 Welcome! 
 ---
@@ -14,6 +15,8 @@ We are part of the [Cal Poly Humboldt Natural Resources & Sciences Department](h
 
 Check out the [Luong Lab DEI Action Plan](https://docs.google.com/document/d/1RVHRP_jJqwDWBOIRaE78yCK5Q4iO7_UxVKMFNqwbh6c/edit?usp=sharing)
 
-![](about-page.jpg)
+![Sunset Photo](/assets/img/about-page.jpg)
+
+
 
 
