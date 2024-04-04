@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-image: lab.png
-image: LabMarch24.png
+image: lab.jpg
+image: LabMarch24.jpg
 ---
 ![lab photo](/assets/img/lab.jpg)
-![Updated lab photo](/assets/img/LabMarch24.png)
+![Updated lab photo](/assets/img/LabMarch24.jpg)
 
 Welcome! 
 ---
