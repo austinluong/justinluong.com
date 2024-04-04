@@ -4,6 +4,9 @@ title: Home
 image: lab.png
 image: LabMarch24.png
 ---
+![lab photo](/assets/img/lab.jpg)
+![Updated lab photo](/assets/img/LabMarch24.png)
+
 Welcome! 
 ---
 Research in Dr. Luong's lab focuses on adapting restoration practices for changing climates and integrating socio-economic and management perspectives to understand rangeland ecology. Lab members engage in hands-on learning opportunities that inform real-world rangeland restoration and management projects to cultivate a diverse and inclusive learning environment. 
