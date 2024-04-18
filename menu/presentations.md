@@ -1,6 +1,9 @@
 ---
 layout: page
 title: People
+image: Logan.jpg
+image: cody.png
+imgage: Tonia.jpg
 ---
 --------------------
 ## Current lab members 
