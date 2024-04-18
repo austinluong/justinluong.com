@@ -17,5 +17,6 @@ Hello! My name is Cody Ellis, my pronouns are he/him, and I’m a senior Biology
 
 **Tonia Brito-Bersi**
 *Lab Technician*
+![Tonia](Tonia.jpg)
 Hello, my name is Tonia. I use they/them pronouns and I am the lab/feild tech for the Luong Lab. I'm passionate about education, dancing and my favorite holiday is Halloween. I grew up not far from Humboldt in the Trinity Alps which is where I learned to love plants. Before moving to Arcata in August 2023, I graduated in 2022 from UC Santa Cruz with my BA in Environmentals Studies and Community Studies. During my time there I worked with the Sustainability Office and I wrote my senior thesis on the importance of anti-racism in envrionmental non-profits. I love working with others and meeting new people so if you see me around, feel free to say hi!
 
