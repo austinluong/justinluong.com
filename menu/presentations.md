@@ -1,7 +1,7 @@
 ---
 layout: current-research
 title: People
-sections:
+sections: 
    - title: Dr. Justin Luong (Lab PI)
      image:
           name: JustinUmbrella.jpg
