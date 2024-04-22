@@ -28,6 +28,10 @@ sections:
             
     - title: "Regenerative Agrivoltaics"
       image:
+          name: LoganSolar.jpg
+          alt: Photo of undergraduate solar panel research team and PI Luong
+          style: center
+      image:
           name: LAEP-Justin2024.jpg
           alt: Photo of undergraduate solar panel research team and PI Luong
           style: right
