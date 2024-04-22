@@ -13,7 +13,7 @@ menu:
   - name: 'Current Research'
     url: 'currentresearch.html'
   - name: 'People'
-    url: 'presentations.html'
+    url: 'people.html'
   - name: 'Art & Science'
     url: 'artandscience.html'
   - name: 'Contact'
