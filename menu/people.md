@@ -29,7 +29,7 @@ sections:
 
     - title: "Cody Ellis (Student Lab Assistant)"
       image:
-          name: cody.jpg
+          name: cody.png
           alt: A photo of Cody
           style: right
       content: |
