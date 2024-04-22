@@ -2,7 +2,7 @@
 layout: current-research
 title: Current Research
 sections:
-    - title: "Understanding restoration outcomes to improve climate-readiness and invasion resistance"
+    - title: "Assessing Restoration Outcomes to Inform Climate-Readiness and Invasion Resistance for Ecological Restoration"
       image:
           name: JustinUmbrella.jpg
           alt: Justin taking data at a restoration site in Watsonville California while holding an umbrella
