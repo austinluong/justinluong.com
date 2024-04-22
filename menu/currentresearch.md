@@ -2,67 +2,35 @@
 layout: current-research
 title: Current Research
 sections:
-    - title: "Assessing Longterm Restoration Outcomes"
+    - title: "Understanding restoration outcomes to improve climate-readiness and invasion resistance"
       image:
           name: JustinUmbrella.jpg
           alt: Justin taking data at a restoration site in Watsonville California while holding an umbrella
           style: right
       content: |
-          * Ecological restoration has been documented as a management action since the 1980s.  
-          * Outcomes are often not assessed, especially past intial implementation.  
-          * I surveyed 37 restored coastal grasslands over from 2019-2021 to compare the vegetation data 
-           against project-based goals from project documents and management interviews, and against a standard 
-           performance metric.  
-          * I am especially interested in understanding why certain projects are more successful than other, 
-            the effect of time, and interannual variability.           
+          We use an interdisciplinary approach, integrating restoration ecology, ecophysiology, greenhouse, fieldwork, and social science methodologies to engage local ecological knowledge and generated applied ecological knowledge. Dr. Luong's work focuses on assessment of restoration projects while integrating management perspectives to ensure engagement of end-use partners. Our work focuses on diverse flora and ecosystems of California as case studies that can be more broadly applicable elsewhere. Current work evaluates the resilience and resistance of native California flora to climate stressors such as plant invasions, drought, fire, and warming to help inform plant selection and context-specific management strategies by assessing functional trait and plant community responses. Current projects work to understand the drivers of reinvasion after targeted weed management (secondary invasion) across California rangelands using field and greenhouse approaches and common garden studies related to plant local adaptation.
 
-    - title: "Using Ecophysiology to Address the Impact of Global Change on Restoration"
+    - title: "Rangeland multiuse and grazing management"
       image:
           name: JustinLICOR.jpg
           alt: Justin taking leaf gas exchange measurements with a LI6400
           style: right
       content: |
-          * Global change is rapidly resulting in novel temperatures and precipitation patterns and increased nitrogen
-            deposition and species invasion.  
-          * I work towards understanding how global change factors, especially drought, influence restoration outcomes
-            and the utility of the functional traits for understanding community change and plant selection.  
-          * Use both physiological and morphological plant approaches in manipulative and observational field studies 
-            and controlled greenhouse environments.  
-          * I integrate functional and phylogenetic diversity metrics to better understand the impacts of restoration and
-            global change on different metrics of biodiversity.         
+          We assess practices for optimizing rangeland multiuse to support grazing and various ecosystem services. We currently work with the with the Mendocinco Resource Conservation District to understand the role of grazing in the Willits Wet Meadows on soil properties, fire risk and vegetation communities including Baker's Meadowfoam (_Limnanthes bakeri_) and North Coast Semaphore Grass (_Pleuropogon hooverianus_). Other current projects focus on investigating soil and vegetation recovery on working lands following fire stating in the central CA coast areas. Additionally, we work to understand disturbances such as grazing and trampling on rangeland plant species and communities to provide guidance for land management, restoration plant selection and rare species conservation.    
             
-    - title: "Local Adaptations in Restoration"
+    - title: "Rare plant conservation"
       image:
           name: PoppyCoastalSeeds.jpg
           alt: Picture of Eschscholzia californica plants collected from different seed localities
           style: right
       content: |
-          * The dominant restoration paradigm encourages that practitioners only use "locally" sourced plants because
-            they may have evolved relative fitness benefits compared to non-local populations.
-          * However, recent reviews found only half of plants tested are actually locally adapted, less than previously 
-            thought. And with climate change locally adaptated populations may no longer be best suited for local restoration.
-          * I am currently working in collaborations to assess the presence of local adaptation in commonly used restoration species:
-            *Stipa pulchra* and *Eschscholzia californica* in multi-sited common gardens, and in response to greenhouse fog manipulations                 
-    - title: "The Effects of Restoration on Ecosystem Functioning"
+          Ecological restoration often unintendedly use the same species across large spatial scales because they are known to work well and are easy to access and no one wants to fail at achieving their (project) goals. For example in coastal California, grassland restoration practitioners commonly use 7 (or less) of the same species out of 6500 existing native CA species. Our lab takes an integrative approach to study a diverse array of California species, threathened, endangered, culturally important, but also common species that are not-special status but are not studied. We also work to address this issue across multi-institutional collaborations through a program called GRASS-NET (Grasslation Restoration Action Science and Stewardship Network), which is a community-based approach working to establish a statewide network aimed at sharing risks in using new restoration species, information on restoration practices, and seed knoweldge. We use ecophysiological approaches to further examine drought responses to characterize less commonly used biodiversity, often annual species. Dr. Luong has worked for over a decade on the conservation of the endangered _Lupinus nipomensis_ and continues to lead research to understand best practices for reintroduction. More currently the lab has also begun work on the threathened _Pleuropogon hooverianus_. 
+            
+    - title: "Regenerative Agrivoltaics"
       image:
           name: cadie-logo.png
           alt: Picture of stipa
           style: right
       content: |
-          * Restoration indicates that it is multi-purposed and positively affects the biodiversity at multiple
-            trophic levels and ecosystem functioning, but is rarely assessed
-          * I work to understand how restoration affects insect communities and am currently focusing on coccinellids
-          * I am currently working to understand how mid-term grassland restoration affects soil carbon         
-    - title: "Long-term recovery of the endangered Nipomo Lupine (Fabaceae: *Lupinus nipomensis*)"
-      image:
-          name: Luong_LupinusNipomensis.jpg
-          alt: Picture of Lupinus nipomensis at an extant population
-          style: center
-      content: |
-          * Studies have found that a majority of rare and endangered plant establishment efforts have failed due to an
-            incomplete knowledge base of habitat preferences.
-          * An outplanting experiment was started in 2015 and two others in 2019.
-          * Long-term monitoring is taking place to determine the role of microhabitats in sustainable establishment of
-            endangered species as ecological trends are often not visible for several years
-          * Factors include abiotic conditions (aspect, slope, precipitation, temperature) and biotic interactions (competition, pollinator limitation, plant herbivores)
+          Clean energy is a growing demand that intersects with mandates and outcries for biodiversity conservation. Our lab is working to understand the role of low-impact photovoltaic grid development in extant rangelands and how these impacts can be used to inform regenerative agrivoltaic projects. Agrivoltaics is a multi-use land practice that utilizes the area under photocells for cultivated work; for example, conducting ecological restoration with native plant species to promote wildlife and insect diversity, use and soil carbon storage, or selecting native species with high forage quality to support mixed-use grazing plans. Regenerative indicates that the practice adds back to the environment (i.e. ecological restoration) by enhancing native plant cover, species richness, wildlife/insect habitat, soil carbon or other ecosystem functions. 
 ---
