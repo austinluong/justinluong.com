@@ -12,7 +12,7 @@ sections:
 
     - title: "Rangeland multiuse and grazing management"
       image:
-          name: Justin Willits Cattle.jpg
+          name: Justin-Willits-Cattle.jpg
           alt: Justin and cattle in a wet meadow at Willits, CA
           style: right
       content: |
