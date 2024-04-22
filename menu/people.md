@@ -37,7 +37,7 @@ sections:
 
     - title: "Kenia Gomez (Student Lab Assistant)"
       image:
-          name: KeniaLabPhoto.png
+          name: KeniaLabPhoto.JPG
           alt: A photo of Kenia in a field of Lupines
           style: right
       content: |
