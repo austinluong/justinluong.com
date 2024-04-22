@@ -12,7 +12,7 @@ sections:
 
     - title: "Rangeland multiuse and grazing management"
       image:
-          name: JustinLICOR.jpg
+          name: Justin-Willits-Cattle.jpg
           alt: Justin taking leaf gas exchange measurements with a LI6400
           style: right
       content: |
@@ -20,7 +20,7 @@ sections:
             
     - title: "Rare plant conservation"
       image:
-          name: PoppyCoastalSeeds.jpg
+          name: Luong_LupinusNipomensis.jpg
           alt: Picture of Eschscholzia californica plants collected from different seed localities
           style: right
       content: |
@@ -28,7 +28,7 @@ sections:
             
     - title: "Regenerative Agrivoltaics"
       image:
-          name: cadie-logo.png
+          name: LAEP-Justin2024.jpg
           alt: Picture of stipa
           style: right
       content: |
