@@ -27,6 +27,14 @@ sections:
       content: |
             Hello, my name is Tonia. I use they/them pronouns and I am the lab/feild tech for the Luong Lab. I'm passionate about education, dancing and my favorite holiday is Halloween. I grew up not far from Humboldt in the Trinity Alps which is where I learned to love plants. Before moving to Arcata in August 2023, I graduated in 2022 from UC Santa Cruz with my BA in Environmentals Studies and Community Studies. During my time there I worked with the Sustainability Office and I wrote my senior thesis on the importance of anti-racism in envrionmental non-profits. I love working with others and meeting new people so if you see me around, feel free to say hi!          
 
+    - title: "Gabriel Abundis (Student Lab Assistant)"
+      image:
+          name: cody.png
+          alt: A photo of Cody
+          style: right
+      content: |
+            Hi, my name is Gabriel Abundis. I am a third-year majoring in rangeland resources with a minor in botany and soils. I am from southern California and although I grew up with nature, I never truly appreciated it for what it is. I fell in love with rangelands and their role in supporting ecosystems. Currently my research focuses intently on exploring the intricate dynamics between photovoltaic cells and the delicate coastal California grasslands. I am particularly interested in the forage value of species, and holistic approaches for rangeland management. When I am not in lab, I enjoy taking my dogs on adventures and eating/cooking.        
+
     - title: "Cody Ellis (Student Lab Assistant)"
       image:
           name: cody.png
