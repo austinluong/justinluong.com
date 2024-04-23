@@ -29,7 +29,7 @@ sections:
 
     - title: "Gabriel Abundis (Student Lab Assistant)"
       image:
-          name: cody.png
+          name: Gabriel.jpg
           alt: A photo of Cody
           style: right
       content: |
