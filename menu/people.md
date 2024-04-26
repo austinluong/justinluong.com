@@ -25,15 +25,23 @@ sections:
           alt: A photo of Tonia
           style: right
       content: |
-            Hello, my name is Tonia. I use they/them pronouns and I am the lab/feild tech for the Luong Lab. I'm passionate about education, dancing and my favorite holiday is Halloween. I grew up not far from Humboldt in the Trinity Alps which is where I learned to love plants. Before moving to Arcata in August 2023, I graduated in 2022 from UC Santa Cruz with my BA in Environmentals Studies and Community Studies. During my time there I worked with the Sustainability Office and I wrote my senior thesis on the importance of anti-racism in envrionmental non-profits. I love working with others and meeting new people so if you see me around, feel free to say hi!          
+            Hello, my name is Tonia. I use they/them pronouns and I am the lab/field tech for the Luong Lab. I'm passionate about education, dancing and my favorite holiday is Halloween. I grew up not far from Humboldt in the Trinity Alps which is where I learned to love plants. Before moving to Arcata in August 2023, I graduated in 2022 from UC Santa Cruz with my BA in Environmentals Studies and Community Studies. During my time there I worked with the Sustainability Office and I wrote my senior thesis on the importance of anti-racism in envrionmental non-profits. I love working with others and meeting new people so if you see me around, feel free to say hi!          
 
     - title: "Gabriel Abundis (Lab Assistant and Undergrad Researcher)"
       image:
           name: Gabriel.jpg
-          alt: A photo of Cody
+          alt: A photo of Gabriel
           style: right
       content: |
             Hi, my name is Gabriel Abundis. I am a third-year majoring in rangeland resources with a minor in botany and soils. I am from southern California and although I grew up with nature, I never truly appreciated it for what it is. I fell in love with rangelands and their role in supporting ecosystems. Currently my research focuses intently on exploring the intricate dynamics between photovoltaic cells and the delicate coastal California grasslands. I am particularly interested in the forage value of species, and holistic approaches for rangeland management. When I am not in lab, I enjoy taking my dogs on adventures and eating/cooking.        
+
+    - title: "Claudia Alfaro Hernandez (Lab Assistant and Undergrad Researcher)"
+      image:
+          name: ClaudiaAlfaro.jpg
+          alt: A photo of Claudia
+          style: right
+      content: |
+            Hello! My name is Claudia Alfaro Hernandez (She/Her/Hers pronouns) and I’m a student assistant in the Luong lab. I’m an Environmental Science & Management major with a concentration in Ecological Restoration and a double minor in Geospatial Analysis and Wildland Soil Science. Before coming to Humboldt County in 2020, I was originally from Southern California, specifically Jurupa Valley (Inland Empire region). Before working with Dr. Justin Luong in his lab, I was a Soil Science Trainee with the NRCS Soil Survey assisting soil scientists with plant identification and soil analysis. I am very excited to have the opportunity to work within the Luong lab this semester, as it allows me to practice my strengths within soil science, correlating its impacts on plant communities regarding sustainable land use applications. When I’m not in the Luong lab, you can find me on the nearby beaches paddleboarding, tide pooling, birding, and beachcombing.        
 
     - title: "Cody Ellis (Lab Assistant)"
       image:
