@@ -25,7 +25,8 @@ Focus: Restoration Ecology
 
 --------------------
 ## Awards and Grants
-*California Farm Bureau Conservation Grazing Fund, 2023 ($520,000)
+* University of California Office of the President Climate Action Seed Fund, 2023 ($1.5M)
+* California Farm Bureau Conservation Grazing Fund, 2023 ($520,000)
 * UCSC Environmental Studies Experiential Learning & Research Grant, 2022
 * National Science Foundation PRFB (Declined to accept USDA), 2022	($138,000)
 * UCSC Graduate Dean’s Travel and Research Grant , 2022	
