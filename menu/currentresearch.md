@@ -16,7 +16,7 @@ sections:
           alt: Justin and cattle in a wet meadow at Willits, CA
           style: right
       content: |
-          We assess practices for optimizing rangeland multiuse to support grazing and various ecosystem services. We currently work with the Mendocinco Resource Conservation District to understand the role of grazing in the Willits Wet Meadows on soil properties, fire risk and vegetation communities including Baker's Meadowfoam (_Limnanthes bakeri_) and North Coast Semaphore Grass (_Pleuropogon hooverianus_). Other current projects focus on investigating soil and vegetation recovery on working lands following fire stating in the central CA coast areas. Additionally, we work to understand disturbances such as grazing and trampling on rangeland plant species and communities to provide guidance for land management, restoration plant selection and rare species conservation.    
+          We assess practices for optimizing rangeland multiuse to support grazing and various ecosystem services. We currently work with the Mendocinco Resource Conservation District to understand the role of grazing in the Willits Wet Meadows on soil properties, fire risk and vegetation communities including Baker's Meadowfoam (_Limnanthes bakeri_) and North Coast Semaphore Grass (_Pleuropogon hooverianus_). Other current projects focus on investigating soil and vegetation recovery on working lands following fire staging in the central CA coast areas. Additionally, we work to understand disturbances such as grazing and trampling on rangeland plant species and communities to provide guidance for land management, restoration plant selection and rare species conservation.    
             
     - title: "Rare plant conservation"
       image:
