@@ -37,7 +37,7 @@ sections:
 
     - title: "Claudia Alfaro Hernandez (Lab Assistant and Undergrad Researcher)"
       image:
-          name: ClaudiaAlfaro.jpg
+          name: ClaudiaAlfaro.jpeg
           alt: A photo of Claudia
           style: right
       content: |
