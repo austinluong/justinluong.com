@@ -61,7 +61,7 @@ sections:
 
     - title: "Ashley Gutierrez-Olvera (Lab Assistant)"
       image:
-          name: AshleyLabPhoto.jpeg
+          name: AshelyLabPhoto.jpeg
           alt: A photo of Kenia in a field of Lupines
           style: right
       content: |
