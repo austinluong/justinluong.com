@@ -43,6 +43,14 @@ sections:
       content: |
             Hello! My name is Claudia Alfaro Hernandez (She/Her/Hers pronouns) and I’m a student assistant in the Luong lab. I’m an Environmental Science & Management major with a concentration in Ecological Restoration and a double minor in Geospatial Analysis and Wildland Soil Science. Before coming to Humboldt County in 2020, I was originally from Southern California, specifically Jurupa Valley (Inland Empire region). Before working with Dr. Justin Luong in his lab, I was a Soil Science Trainee with the NRCS Soil Survey assisting soil scientists with plant identification and soil analysis. I am very excited to have the opportunity to work within the Luong lab this semester, as it allows me to practice my strengths within soil science, correlating its impacts on plant communities regarding sustainable land use applications. When I’m not in the Luong lab, you can find me on the nearby beaches paddleboarding, tide pooling, birding, and beachcombing.        
 
+    - title: "Sage Brislen (Lab Assistant)"
+      image:
+          name: sagebrislen.jpeg
+          alt: A photo of Sage B
+          style: right
+      content: |
+            Hi, my name is Sage (she/her) and I’m a third-year Rangeland Resource Science major. I’m from Southern California originally where I grew up hiking, camping, and working outdoors. I’ll always have a soft spot for coastal grass and shrublands. I’m interested in range conservation particularly with wildlife, invasives, and urban sprawl. In my free time I like to collage, garden, sketch, create fiber art, I am Vice President of the Range & Soils Club, and I’m on the logging sports team. Unsurprisingly, I’m a big fan of North American sages!        
+
     - title: "Cody Ellis (Lab Assistant)"
       image:
           name: cody.png
