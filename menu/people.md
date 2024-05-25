@@ -45,7 +45,7 @@ sections:
 
     - title: "Sage Brislen (Lab Assistant)"
       image:
-          name: sagebrislen.jpeg
+          name: sagebrislen.JPEG
           alt: A photo of Sage B
           style: right
       content: |
