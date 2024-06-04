@@ -51,14 +51,6 @@ sections:
       content: |
             Hi, my name is Sage (she/her) and I’m a third-year Rangeland Resource Science major. I’m from Southern California originally where I grew up hiking, camping, and working outdoors. I’ll always have a soft spot for coastal grass and shrublands. I’m interested in range conservation particularly with wildlife, invasives, and urban sprawl. In my free time I like to collage, garden, sketch, create fiber art, I am Vice President of the Range & Soils Club, and I’m on the logging sports team. Unsurprisingly, I’m a big fan of North American sages!        
 
-    - title: "Cody Ellis (Lab Assistant)"
-      image:
-          name: cody.png
-          alt: A photo of Cody
-          style: right
-      content: |
-            Hello! My name is Cody Ellis, my pronouns are he/him, and I’m a senior Biology undergraduate with a concentration in Ecology. I’m interested in plant-soil-microbial dynamics and community ecology, especially in the context of host-associations and successional cycles. Growing up in the chaparral and bunchgrass prairie of southern Riverside county by the Santa Rosa plateau instilled in me a deep love for California’s endemic species and threatened habitats.  I’m excited to be part of the Luong lab this semester, working in ecological restoration for some of California’s most imperiled ecosystems! When I’m not helping in the lab or greenhouse, you can find me hiking at Big Lagoon or experimenting with natural dyes! My favorite organisms are *Stemonitis sp.* and the color rusty orange simply can’t be beat.        
-
     - title: "Kenia Gomez (Undergrad Researcher)"
       image:
           name: KeniaLabPhoto.JPG
@@ -82,6 +74,14 @@ sections:
           style: right
       content: |
             I am a full time student studying the management of rangelands at California Polytechnic University Humboldt. I focus on the development of sustainable rangeland management practices with an emphasis on soil health and native plant communities. I strive to restore rangeland ecosystems through native plant and soil restoration and the implementation of practices that allow the symbiotic relationship between humans and the land to return.          
+
+    - title: "Max Shea (Lab Assistant)"
+      image:
+          name: maxshea.jpg
+          alt: A photo of Max
+          style: right
+      content: |
+            Hi! My name is Max (they/them). I’m from central Florida, and have since moved around California and Oregon for school and work. I’m now a fourth year botany student. My interest in rangeland ecology started during my first field season, where I worked for the Agricultural Research Service in the Oregon high desert. I’m broadly interested in plant ecology in the contexts of conservation, restoration, bioremediation, and plant responses to climate change. Outside of biology, I like reading, crossword puzzles and sudoku, and botanical illustration.          
 
 ---
 
