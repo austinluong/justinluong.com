@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 ---
+[Google Scholar](https://scholar.google.com/citations?user=YSOJb-wAAAAJ&hl=en)  
+
 14) Yang X, Loik ME, Wu X, **Luong JC**, Wei X, Li L. 2024. Drought and vegetation restoration lead to shifts in soil microbial diversity and co‐occurrence networks in California coastal prairie. *Plant and Soil*. <https://doi.org/10.1007/s11104-024-06625-7>  
 
 13) Medina-van Berkum P, Schmöckel E, Bischoff A, Carrasco-Farias N, Catford JA, Feldmann R, Groten K, Henry HAL, Bucharova A, Hänniger S, **Luong JC**, Oetama VSP, Pärtel M, Power SA, Villellas J, Welk E, Wingler A, Rothe B, Gershenzon J, Reichelt M, Roscher C, Unsicker SB. 2024. Plant geographic distribution influences chemical defences in native and introduced Plantago lanceolata populations. *Functional Ecology*. <https://doi.org/10.1111/1365-2435.14535>  
