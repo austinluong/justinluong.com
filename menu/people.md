@@ -77,7 +77,7 @@ sections:
 
     - title: "Max Shea (Lab Assistant)"
       image:
-          name: maxshea.jpg
+          name: maxshea.JPG
           alt: A photo of Max
           style: right
       content: |
