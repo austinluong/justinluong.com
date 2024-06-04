@@ -83,9 +83,9 @@ sections:
       content: |
             Hi! My name is Max (they/them). I’m from central Florida, and have since moved around California and Oregon for school and work. I’m now a fourth year botany student. My interest in rangeland ecology started during my first field season, where I worked for the Agricultural Research Service in the Oregon high desert. I’m broadly interested in plant ecology in the contexts of conservation, restoration, bioremediation, and plant responses to climate change. Outside of biology, I like reading, crossword puzzles and sudoku, and botanical illustration.          
 
-
+    - title: "Lab Alum"
     - content" |
-            [UC Santa Cruz Page](https://justinluong.com/menu/people.html)
+            [Lab Alum Page](https://justinluong.com/menu/labalum.html)          
 ---
 
 <span style="font-size:0.5em;">*Undergrad researchers are undertaking directed rangeland research.</span>
