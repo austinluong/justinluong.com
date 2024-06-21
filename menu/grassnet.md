@@ -4,7 +4,7 @@ title: California Grassland Research, Action, Science and Stewardship Network (G
 
 ---
 
-![Preview]({{site.baseurl}}/assets/img/GRASS-NET Logo.jpg)  
+![Preview]({{site.baseurl}}/assets/img/GRASS-NET Logo.jpeg)  
 California’s grasslands are biodiversity hotspots and globally unique, but climate change will make it unsuitable for endemic species; so innovative restoration must focus on climate resilience for a diverse suite of species.  
 
 
