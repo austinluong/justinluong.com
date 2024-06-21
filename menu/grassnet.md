@@ -15,3 +15,5 @@ Recent research found that restoration of California grasslands typically focuse
 GRASS-Net (Grassland Restoration Action, Science, and Stewardship Network) developed this survey for California grassland restoration practitioners to help establish a network in coordinating grassland restoration activities and sharing restoration knowledge and practices.  
 
 Please take the survey if you have implemented or planned any grassland restoration projects (not research). GRASS-Net aims to develop and share effective climate-resilient practices, facilitate seed exchanges for hard-to-access species, and develop coordinated strategies to increase plant diversity in restoration with practitioners involved in restoration projects.  
+
+![Preview]({{site.baseurl}}/assets/img/GrassNetIllustrationsCombined.png) 
