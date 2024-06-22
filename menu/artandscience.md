@@ -10,7 +10,7 @@ To provide different modes of communicating science, I work with artists that cr
 ![Preview]({{site.baseurl}}/assets/img/CPGRSq250.jpg)  
 [Published in Biological Conservation](https://doi.org/10.1016/j.biocon.2023.109956)  
 Art by [Lesley Goren](https://www.lesleygoren.com/) published in Grasslands by California Native Grassland Association  
-[View PDF]({{site.baseurl}}/assets/pdf/ReducedRezGrasslandRestorationSurveys.pdf)  
+[View PDF]({{site.baseurl}}/assets/pdf/CAGrasslandRestorationStudy.pdf)  
 
 
 ###  Leaf traits and phylogeny explain plant survival and community dynamics in response to extreme drought in a restored coastal grassland  
