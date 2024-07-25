@@ -141,7 +141,7 @@ Duties: Oversee grassland and wetland restoration activities; coordinate and tra
 2020 – 2022  
 
 **California Native Grassland Association**  
-*Director-at-Large*  
+*Research, Science & Education Committee Chair*  
 2021 - Present
 
 
@@ -196,20 +196,21 @@ Duties: Oversee grassland and wetland restoration activities; coordinate and tra
 ## Professional Service
 
 **Ecological Society of America Ecological Restoration Section**  
-*Graduate Student Rep*  
+*Committee Member*  
 2020-Present  
-Duties: Organize student poster contest and provide input on section decisions.  
 
 **Various Journals**  
 *Reviewer*  
 Publon ID - [AAK-2150-2020](https://publons.com/researcher/3532491/justin-luong/)  
-* Ecology and Evolution - 4  
-* Ecological Solutions and Evidence - 1  
-* Journal of Plant and Soil Science - 1  
-* Land Degradation and Development - 1  
-* Madroño - 1  
-* Restoration Ecology - 3  
+*American Journal of Botany, Conservation Physiology, Ecology and Evolution, Ecological Solutions and Evidence, Journal of Plant and Soil Science, Journal of Arid Environments, Journal of Ecology, Land Degradation and Development, Madroño, New Phytologist, Plant Ecology, Restoration Ecology*
 
+**Restoration Ecology**  
+*Coordinating Editor*  
+2022-Present  
+
+**Madroño**  
+*Coordinating Editor*  
+2022-Present  
 
 --------------------
 ## Mentorship
@@ -221,7 +222,8 @@ Publon ID - [AAK-2150-2020](https://publons.com/researcher/3532491/justin-luong/
 * Emma Houle, undergrad, (2020-2022)  
 * Ernesto Chavez-Velasco, undergrad and professional, (2020-Present)  
  *senior thesis: "Responses of Functional Leaf Traits to Fog & Drought are Greater  
-  for Native Coastal California Grassland than Coastal Agricultural Species"*    
+  for Native Coastal California Grassland than Coastal Agricultural Species"*
+  *masters thesis: *Integrating plant traits with site characterizations to support biodiverse California coastal grassland restoration.*
 * Carina Motta, undergrad and master's, (2020-2022)  
 * Tori Bauman, undergrad, (2020)  
  *senior thesis: "Coastal Prairie Bunchgrass Response to Trail Disturbance"*
