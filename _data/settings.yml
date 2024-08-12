@@ -16,6 +16,8 @@ menu:
     url: 'people.html'
   - name: 'Art & Science'
     url: 'artandscience.html'
+  - name: 'California GRASS-Net'
+    url: 'grassnet.html'
   - name: 'Contact'
     url: 'contact.html'
 
