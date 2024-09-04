@@ -85,7 +85,7 @@ sections:
 
     - title: "Ty Wilkey-Burrell (Lab Assistant)"
       image:
-          name: Ty Wilkey-Burrell.JPG
+          name: Ty Wilkey-Burrell.jpg
           alt: A photo of Ty
           style: right
       content: |
