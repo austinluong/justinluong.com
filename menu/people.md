@@ -81,7 +81,15 @@ sections:
           alt: A photo of Max
           style: right
       content: |
-            Hi! My name is Max (they/them). I’m from central Florida, and have since moved around California and Oregon for school and work. I’m now a fourth year botany student. My interest in rangeland ecology started during my first field season, where I worked for the Agricultural Research Service in the Oregon high desert. I’m broadly interested in plant ecology in the contexts of conservation, restoration, bioremediation, and plant responses to climate change. Outside of biology, I like reading, crossword puzzles and sudoku, and botanical illustration.          
+            Hi! My name is Max (they/them). I’m from central Florida, and have since moved around California and Oregon for school and work. I’m now a fourth year botany student. My interest in rangeland ecology started during my first field season, where I worked for the Agricultural Research Service in the Oregon high desert. I’m broadly interested in plant ecology in the contexts of conservation, restoration, bioremediation, and plant responses to climate change. Outside of biology, I like reading, crossword puzzles and sudoku, and botanical illustration.      
+
+    - title: "Ty Wilkey-Burrell (Lab Assistant)"
+      image:
+          name: Ty Wilkey-Burrell.JPG
+          alt: A photo of Ty
+          style: right
+      content: |
+            Hello my name is Tyvone Wilkey-Burrell but my friends call me Ty. I am currently a sophomore at Cal Poly Humboldt and my major is Forestry (Wildland and Fire Management). I also currently have two jobs on campus so if you ever happen to be in Nelson Hall come stop by The Umoja center located on the second floor and say hi. Finally in my free time I like to explore places I haven't been, go to the beach, and hangout with friends.                  
 
     - title: "Lab Alum"
     - content: |
