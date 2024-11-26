@@ -2,9 +2,9 @@
 layout: home
 title: Home
 image: lab.png
-image: LabMarch24.jpg
+image: LuongLabPotluckNov2024.jpg
 ---
-![lab photo](/assets/img/lab.png)
+<div align="center">![lab photo](/assets/img/lab.png)</div>
 
 Welcome! 
 ---
