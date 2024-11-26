@@ -4,7 +4,10 @@ title: Home
 image: lab.png
 image: LuongLabPotluckNov2024.jpg
 ---
-<div align="center">![lab photo](/assets/img/lab.png)</div>
+<div align="center">![lab photo](/assets/img/lab.png)
+<div align="center">
+  <img src="/assets/img/lab.png" alt="Description" width="500">
+</div>
 
 Welcome! 
 ---
