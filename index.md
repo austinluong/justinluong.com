@@ -6,7 +6,7 @@ image: LuongLabPotluckNov2024.jpg
 ---
 
 <div align="center">
-  <img src="/assets/img/LabWork.jpg" alt="Description" width="750">
+  <img src="/assets/img/LabWork.jpg" alt="Luong Lab working on various tasks" width="800">
 </div>  
 
 Welcome! 
@@ -15,7 +15,7 @@ Research in Dr. Luong's lab focuses on adapting restoration practices for changi
 
 
 <div align="center">
-  <img src="/assets/img/lab.png" alt="Description" width="500">
+  <img src="/assets/img/lab.png" alt="Luong Lab from Jan 2024 after Geode training" width="500">
 </div>  
 ---
 # Quick Links:  
@@ -25,7 +25,7 @@ We are part of the [Department of Forestry, Fire and Rangeland Management](https
 Check out the [Luong Lab DEI Action Plan](https://docs.google.com/document/d/1RVHRP_jJqwDWBOIRaE78yCK5Q4iO7_UxVKMFNqwbh6c/edit?usp=sharing)  
 
 <div align="center">
-  <img src="/assets/img/KneelandDroughtNet.jpg" alt="Description" width="750">
+  <img src="/assets/img/KneelandDroughtNet.jpg" alt="Graduate Students and Lab Manager setting up a drought structure" width="750">
 </div>  
 
 <div align="center">
