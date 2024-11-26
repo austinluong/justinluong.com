@@ -4,7 +4,11 @@ title: Publications
 ---
 [Google Scholar](https://scholar.google.com/citations?user=YSOJb-wAAAAJ&hl=en)  
 
-15) Muramoto J, Flores R, Jones A, **Luong J**. 2024. Utilizing Traditional Ecological Knowledge to Tend Geophytes on the Central Coast of California. In J. Habu (Eds.) Agroecology, Sustainable Food Production and Landscape Conservation: International Collaborations between Japan and the Americas (98-105).  
+17)  Nguyen PV, **Luong JC**, Wishingrad V, Stratton LC, Loik ME, Meyer RS. 2024. Soil Biome Variation of Lupinus nipomensis Eastw. in Wet-Cool vs. Dry-Warm Microhabitats and Greenhouse Conditions. *American Journal of Botany*. **Accepted/In press**  
+
+16)  Zhu K, Song Y, Lesage JC, **Luong JC**, Bartolome J, Chiariello N, Dudney J, Field C, Hallett L, Hammond M, Harrison S, Hayes G, Hobbs R, Holl KD, Hopkinson P, Larios L, Loik ME, Prugh L. 2024. Rapid shifts in grassland communities driven by climate change. *Nature Ecology & Evolution*. <https://doi.org/10.1038/s41559-024-02552-z>  
+
+15)  Muramoto J, Flores R, Jones A, **Luong J**. 2024. Utilizing Traditional Ecological Knowledge to Tend Geophytes on the Central Coast of California. In J. Habu (Eds.) Agroecology, Sustainable Food Production and Landscape Conservation: International Collaborations between Japan and the Americas (98-105).  
 [View pdf]({{site.baseurl}}/assets/pdf/Utilizing Traditional Ecological Knowledge to Tend Geophytes on the Central Coast of California.pdf)   
 
 14) Yang X, Loik ME, Wu X, **Luong JC**, Wei X, Li L. 2024. Drought and vegetation restoration lead to shifts in soil microbial diversity and co‐occurrence networks in California coastal prairie. *Plant and Soil*. <https://doi.org/10.1007/s11104-024-06625-7>  
