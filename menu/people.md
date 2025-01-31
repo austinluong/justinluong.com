@@ -11,7 +11,7 @@ sections:
       content: |
             Dr. Luong is an Assistant Professor of Rangeland Resource Science in the Forestry, Fire, and Rangeland Department at Cal Poly Humboldt, where he works     with rangeland ecosystems, particularly in conservation and ecological restoration of California habitats, focused but not limited to grasslands with direct land manager engagement. His research interests center around climate-ready and invasion resistant restoration practices and incorporating management perspectives to understand restoration outcomes. Dr. Luong is particularly dedicated to promoting multi-use landscapes that balance range productivity and conserve native plant biodiversity. Dr. Luong completed his Bachelor's at the University of California (UC) Santa Barbara, and worked as an undergraduate researcher in the D'Antonio lab. He earned his PhD at UC Santa Cruz working with Dr. Michael Loik and Dr. Karen Holl in the Environmental Studies Department and worked as a USDA postdoctoral researcher at UC Davis with Dr. Jennifer Funk. Prior, Dr. Luong worked as a restoration coordinator at The Cheadle Center for Biodiversity and Ecological Restoration. Dr. Luong actively currently contributes to the broader conservation community through various leadership positions in various professional societies and advisory committees and serves as a board member and the Science and Education Committee Chair of the California Native Grassland Association. Dr. Luong is deeply invested in mentorship and actively fosters the growth of aspiring ecologists and works to train undergraduate and masters students. My favorite grasses are _Festuca californica_ and _Danthonia californica_.           
 
-    - title: "Ernesto Chavez-Velasco (M.S. Student)"
+    - title: "Ernesto Chavez-Velasco (M.S. Candidate)"
       image:
           name: ErnestoLabPhoto.jpg
           alt: A photo of Ernesto conducting field work
@@ -19,6 +19,22 @@ sections:
       content: |
             Hello! I'm Ernesto. I'm a natural resources graduate student. I'm broadly interested in  restoration, grasslands, plant ecology, botany, and ecosystem management. I grew up near the coast in Santa Barbara county where I developed an appreciation for spending time outside but I fell in love with grasslands, restoration, and fieldwork as an undergrad at UC Santa Cruz. When I'm not working, you can catch me hunting for wildflowers on iNat in the spring or cheffing it up at home. I'm also constantly trying out new hobbies! My favorite forbs are any and all heterotrophic plants, Lillies, and _Leptosyne gigantea_; my favorite grasses are _Danthonia californica_ and _Poa douglasii_.          
 
+    - title: "Angelina Garcia (M.S. Student)"
+      image:
+          name: AngelinaGarcia.jpg
+          alt: A photo of Angelina conducting field work
+          style: right
+      content: |
+            Hello! My name is Angelina and I am a Natural Resources graduate student planning to research secondary invasions under the guidance of Dr. Luong. Before pursuing my master’s degree, I attended Chico State and received a B.S. in Plant Biology. There, I was able to develop skills in both restoration and lab research. While working as a land steward at Big Chico Creek Ecological Reserve, I found a passion for rehabilitating native plant communities and was later able to connect that knowledge to my lab assistant position for the GRASS-Net project. My research interests include restoration ecology, soil health, invasive species physiology, and I hope to explore more ethnobotanical topics in the future! In my free time, I enjoy longboarding, cooking, practicing my plant identification, and bug hunting with friends. Some of my favorite plants include _Aquilegia formosa_, _Trifolium depauperatum_, and _Adiantum jordanii_.          
+            
+    - title: "Adam Canter (M.S. Student)"
+      image:
+          name: AdamCanter.jpg
+          alt: A photo of Adam
+          style: right
+      content: |
+            Growing up in the wilds of southern Appalachia on the VA/Tenn border I developed a love and respect for nature at a young age and have always sought to be an advocate for wild places and the species that depend on them.  Heading to college right out of high school and not knowing completely what field to go into, I earned a BA in Interdisciplinary Studies from Virginia Tech in 2003.  I quickly fell in love with field biology and research, working a series of seasonal jobs, knowing my true passion was for plants, plant communities, and ecosystems.  In 2005 I found myself in Humboldt County working with the Northern Spotted Owl and earned a BS in Botany from Humboldt State University in 2008.  I have been working for the Wiyot Tribe as their botanist and Natural Resources Director since 2014, and seek to apply the knowledge I’ve learned toward the protection of ethnobotanical sites and Tribal cultural resources, lobbying for the reinstitution of indigenous land management and the application of traditional ecological knowledge in natural resources management.  I enjoy spending time out in nature with my wonderful daughters Iris and Azalea, backpacking, botanizing, and playing the banjo.          
+    
     - title: "Tonia Brito-Bersi (Lab Manager)"
       image:
           name: Tonia.jpg
@@ -59,6 +75,14 @@ sections:
       content: |
             I am a post-baccalaureate student in the Rangeland Resource Science program at Cal Poly Humboldt. Prior to returning to school, I worked as a sustainability consultant where I learned about resource management in the built environment. While working on large-scale waste management studies I became interested in learning about natural resource management. While pursuing my second bachelor’s degree I interned for NRCS Idaho and competed on the Collegiate Soil Judging team. My research project is focused on understanding the ecological conditions which may influence _Pleuropogon hooverianus_ development.          
 
+    - title: "Hazel Goode (Lab Assistant)"
+      image:
+          name: HazelGoode.png
+          alt: A photo of Hazel
+          style: right
+      content: |
+            Hi! My name is Hazel Goode. I am a Botany Student minoring in Wildland Soils in my final year at Humboldt. I grew up in the foothills of the Sierra Nevadas and have always loved being outside. I became interested in rangelands working alongside a Rangeland Specialist/ Botanist for the Tahoe National Forest and have come to deeply appreciate their beauty and diversity. In my free time I love to kayak, create art, and spend time in the woods. My favorite gramminoid is _Carex utriculata_!          
+
     - title: "Ashley Gutierrez-Olvera (Lab Assistant)"
       image:
           name: AshelyLabPhoto.jpeg
@@ -75,13 +99,29 @@ sections:
       content: |
             I am a full time student studying the management of rangelands at California Polytechnic University Humboldt. I focus on the development of sustainable rangeland management practices with an emphasis on soil health and native plant communities. I strive to restore rangeland ecosystems through native plant and soil restoration and the implementation of practices that allow the symbiotic relationship between humans and the land to return.          
 
-    - title: "Max Shea (Lab Assistant)"
+    - title: "JJ Madrigal Garcia (Lab Assistant)"
+      image:
+          name: JJMadrigalGarcia.JPG
+          alt: A photo of JJ
+          style: right
+      content: |
+            Hello! My name is J.J. I am a senior undergraduate studying Rangeland Resource Science with a minor in Sustainable Food Systems. My interests include food sovereignty, gardening, and ethnobotany. Cooking with family was a very important aspect of my growing up and inspired my passion for sustainable food systems. One of my favorite plants recently has been one my grandma introduced me to outside her house in Michoacan, Mexico. She called it cinco llagas: Tagetes lunulata. I enjoy spending time in the sun and making fiber arts and other crafts.          
+
+    - title: "Max Shea (Lab Assistant and Undergrad Researcher)"
       image:
           name: maxshea.JPG
           alt: A photo of Max
           style: right
       content: |
             Hi! My name is Max (they/them). I’m from central Florida, and have since moved around California and Oregon for school and work. I’m now a fourth year botany student. My interest in rangeland ecology started during my first field season, where I worked for the Agricultural Research Service in the Oregon high desert. I’m broadly interested in plant ecology in the contexts of conservation, restoration, bioremediation, and plant responses to climate change. Outside of biology, I like reading, crossword puzzles and sudoku, and botanical illustration.      
+
+    - title: "Derek Tremaine (Lab Assistant)"
+      image:
+          name: DerekTremaine.jpg
+          alt: A photo of Derek
+          style: right
+      content: |
+            Hello, I'm Derek!  I'm a junior at CPH, majoring in Forestry and Soils.  I grew up on a raspberry farm in Bellingham, WA and managed the family business for a decade before moving to Humboldt County to pursue an education in natural resources.  I have a particular interest in forest-grassland transition zones, conifer encroachment throughout the PNW, and subalpine plant communities.  I'm really grateful to be part of such an ecologically minded community in one of the most beautiful and biodiverse places on the planet. Outside of school I enjoy hiking, photography, and writing music. My favorite grass is _Hesperostipa comata_ and favorite tree is _Tsuga mertensiana_.      
 
     - title: "Ty Wilkey-Burrell (Lab Assistant)"
       image:
