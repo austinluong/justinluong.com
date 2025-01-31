@@ -5,4 +5,4 @@ Jordan Freitas - Lab assistant - 2024-2025
 Ashley Gutierrez-Olvera - Lab assistant - 2024-2025          
 Jennie Hernandez - Lab assistant - 2024-2025          
 
-[Click here to see a list of previous lab alum](https://justinluong.com/menu/archivedbios.html)
+[Click here to see archived bios of lab alum](https://justinluong.com/menu/archivedbios.html)
