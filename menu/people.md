@@ -93,7 +93,7 @@ sections:
 
     - title: "Wendy Kornberg (Lab Assistant and Undergrad Researcher)"
       image:
-          name: WendyKornberg.jpg
+          name: WendyKornberg.png
           alt: A photo of Wendy
           style: right
       content: |
@@ -134,6 +134,7 @@ sections:
     - title: "Lab Alum"
     - content: |
             [Click here to see a list of previous lab alum](https://justinluong.com/menu/labalum.html)          
+
 ---
 
 <span style="font-size:0.5em;">*Undergrad researchers are undertaking directed rangeland research.</span>
