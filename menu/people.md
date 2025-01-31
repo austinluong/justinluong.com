@@ -34,6 +34,14 @@ sections:
           style: right
       content: |
             Growing up in the wilds of southern Appalachia on the VA/Tenn border I developed a love and respect for nature at a young age and have always sought to be an advocate for wild places and the species that depend on them.  Heading to college right out of high school and not knowing completely what field to go into, I earned a BA in Interdisciplinary Studies from Virginia Tech in 2003.  I quickly fell in love with field biology and research, working a series of seasonal jobs, knowing my true passion was for plants, plant communities, and ecosystems.  In 2005 I found myself in Humboldt County working with the Northern Spotted Owl and earned a BS in Botany from Humboldt State University in 2008.  I have been working for the Wiyot Tribe as their botanist and Natural Resources Director since 2014, and seek to apply the knowledge I’ve learned toward the protection of ethnobotanical sites and Tribal cultural resources, lobbying for the reinstitution of indigenous land management and the application of traditional ecological knowledge in natural resources management.  I enjoy spending time out in nature with my wonderful daughters Iris and Azalea, backpacking, botanizing, and playing the banjo.          
+
+    - title: "Lee Minicuci (M.S. Student, primarily advised by Dr. Kerry Byrne)"
+      image:
+          name: LeeMinicuci.jpg
+          alt: A photo of Lee
+          style: right
+      content: |
+            Hello! My name is Lee. I'm a first-year natural resources grad student here. I grew up in New Jersey and have spent nearly all of my academic and professional career there, graduating from Rutgers University with a degree in Ecology, Evolution, and Natural Resources in 2017. I have a wide variety of interests in ecology and I'm fortunate to have been able to work in roles that allowed me to explore all of those interests from songbird point counts and banding to assessing forest plant communities, rare plant surveys, fire ecology, and the applications of terrestrial LiDAR. In my spare time I love hiking, mountain biking, and looking for cool plants and birds along the way. I’m still getting to know the California flora, so my favorite plants are from back home in the east, but my favorite forb is _Anemonoides quinquefolia_ and my favorite grass is _Elymus hystrix_.                      
     
     - title: "Tonia Brito-Bersi (Lab Manager)"
       image:
