@@ -101,7 +101,7 @@ sections:
 
     - title: "JJ Madrigal Garcia (Lab Assistant)"
       image:
-          name: JJMadrigalGarcia.JPG
+          name: JJMadrigalGarcia.JPEG
           alt: A photo of JJ
           style: right
       content: |
