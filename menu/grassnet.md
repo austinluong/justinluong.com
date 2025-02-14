@@ -1,6 +1,6 @@
 ---
 layout: page
-title: California Grassland Research, Action, Science and Stewardship Network (GRASS-NET)
+title: California Grassland Restoration, Action, Science and Stewardship Network (GRASS-NET)
 
 ---
 The Grassland Restoration Action, Science and Stewardship Network (GRASS-Net) -- GRASS-Net envisions successful grassland restoration projects that take best practices into consideration, that are cost effective, prepared for the erratic drought regimes of the climate crisis, and promote regionally diverse and culturally significant species. We aim to bring together restoration practitioners across the state to share knowledge and minimize biotic homogenization in restored areas. Biologically diverse California (CA) range and grasslands are an increasingly crucial solution to carbon capture and climate change mitigation opportunities. California’s grasslands are biodiversity hotspots and globally unique, but climate change will make it unsuitable for endemic species; so innovative restoration must focus on climate resilience for a diverse suite of species. Recent research found that restoration of California grasslands typically focuses on only 7 key perennial species across the entire coast.  
