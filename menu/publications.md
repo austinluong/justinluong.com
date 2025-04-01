@@ -4,7 +4,9 @@ title: Publications
 ---
 [Google Scholar](https://scholar.google.com/citations?user=YSOJb-wAAAAJ&hl=en)  
 
-17)  Nguyen PV, **Luong JC**, Wishingrad V, Stratton LC, Loik ME, Meyer RS. 2024. Soil Biome Variation of Lupinus nipomensis Eastw. in Wet-Cool vs. Dry-Warm Microhabitats and Greenhouse Conditions. *American Journal of Botany*. **Accepted/In press**  
+18)  Byrne KM, Luong JC, Kaczynski KM. 2025. Divergent drought response in two cold desert shrublands. 2025. Ecosphere 16(3):e70211. <https://doi.org/10.1002/ecs2.70211>  
+
+17)  Nguyen PV, **Luong JC**, Wishingrad V, Stratton LC, Loik ME, Meyer RS. 2024. Soil Biome Variation of Lupinus nipomensis Eastw. in Wet-Cool vs. Dry-Warm Microhabitats and Greenhouse Conditions. *American Journal of Botany* e70020. <https://doi.org/10.1002/ajb2.70020>  
 
 16)  Zhu K, Song Y, Lesage JC, **Luong JC**, Bartolome J, Chiariello N, Dudney J, Field C, Hallett L, Hammond M, Harrison S, Hayes G, Hobbs R, Holl KD, Hopkinson P, Larios L, Loik ME, Prugh L. 2024. Rapid shifts in grassland communities driven by climate change. *Nature Ecology & Evolution*. <https://doi.org/10.1038/s41559-024-02552-z>  
 
