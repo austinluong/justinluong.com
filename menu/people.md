@@ -67,6 +67,14 @@ sections:
       content: |
             Hello! My name is Claudia Alfaro Hernandez (She/Her/Hers pronouns) and I’m a student assistant in the Luong lab. I’m an Environmental Science & Management major with a concentration in Ecological Restoration and a double minor in Geospatial Analysis and Wildland Soil Science. Before coming to Humboldt County in 2020, I was originally from Southern California, specifically Jurupa Valley (Inland Empire region). Before working with Dr. Justin Luong in his lab, I was a Soil Science Trainee with the NRCS Soil Survey assisting soil scientists with plant identification and soil analysis. I am very excited to have the opportunity to work within the Luong lab this semester, as it allows me to practice my strengths within soil science, correlating its impacts on plant communities regarding sustainable land use applications. When I’m not in the Luong lab, you can find me on the nearby beaches paddleboarding, tide pooling, birding, and beachcombing.        
 
+    - title: "Soren Biel (Lab Assistant)"
+      image:
+          name: SorenBiel.JPEG
+          alt: A photo of Soren B
+          style: right
+      content: |
+            "Hi! I’m Soren and my pronouns are he/him. I’m a fourth year botany student and a student assistant in the Luong lab and the Dennis K. Walker Greenhouse. I have always had an appreciation for plants but was only interested in gardening and horticulture until coming to Cal Poly Humboldt. It was here that I discovered my passion for plant taxonomy, conservation, and lichenology. Outside of botany I enjoy reading, lapidary arts, and puzzle games!        
+
     - title: "Sage Brislen (Lab Assistant)"
       image:
           name: sagebrislen.JPEG
@@ -75,6 +83,23 @@ sections:
       content: |
             Hi, my name is Sage (she/her) and I’m a third-year Rangeland Resource Science major. I’m from Southern California originally where I grew up hiking, camping, and working outdoors. I’ll always have a soft spot for coastal grass and shrublands. I’m interested in range conservation particularly with wildlife, invasives, and urban sprawl. In my free time I like to collage, garden, sketch, create fiber art, I am Vice President of the Range & Soils Club, and I’m on the logging sports team. Unsurprisingly, I’m a big fan of North American sages!        
 
+    - title: "Trinity Edwards (Lab Assistant and Undergrad Reseacher)"
+      image:
+          name: TrinityEdwards.heic
+          alt: A photo of Trinity Edwards
+          style: right
+      content: |
+            Trinity Edwards is a Senior at Cal Poly Humboldt majoring in Rangeland Resource Science with a concentration in soil science. During her academic journey Trinity has gained an interest in Geospatial Sciences and as a result, is also pursuing a Geospatial Science minor. With strong interests in land stewardship, sustainability, and agroecology, Trinity is passionate about giving back and taking care of the land. Trinity’s academic journey has been shaped by her deep love for nature and the world around her. Through the connections made at Cal Poly Humboldt Trinity has been able to evolve these passions into research in the realms of restoration and soil conservation. In the future, Trinity aims to further her understanding of native plant species and their potential use in various agricultural practices. Outside of academics, Trinity enjoys camping, playing ultimate frisbee, and volunteering at Special Olympic event.        
+                    
+    - title: "Logan Fogle (Lab Assistant)"
+      image:
+          name: LoganFogle.JPG
+          alt: A photo of Logan Fogle
+          style: right
+      content: |
+            Logan Fogle is currently working towards a Rangeland Resource Science B.S. at Cal Poly Humboldt. He hails from the scrubland of Southern California, originally coming to Humboldt County to study Forestry. However, after a few months working as a Timber Cruiser and a few Forestry classes, he soon realized his passion lied with Rangeland. He has loved the outdoors all his life, but has cultivated a more mature admiration for the vastness and complexity of the wilderness in his recent years. He lived and worked on a horse ranch in Riverside County before going to college. He is specifically interested in sustainable livestock operations. Logan's favorite range plant is _Encelia farinosa_!           
+
+            
     - title: "Hazel Goode (Lab Assistant)"
       image:
           name: HazelGoode.png
@@ -86,7 +111,7 @@ sections:
     - title: "Logan Holey (Lab Assistant and Undergrad Researcher)"
       image:
           name: Logan.jpg
-          alt: A photo of Logan
+          alt: A photo of Logan Holey
           style: right
       content: |
             I am a full time student studying the management of rangelands at California Polytechnic University Humboldt. I focus on the development of sustainable rangeland management practices with an emphasis on soil health and native plant communities. I strive to restore rangeland ecosystems through native plant and soil restoration and the implementation of practices that allow the symbiotic relationship between humans and the land to return.          
