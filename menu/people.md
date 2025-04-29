@@ -43,13 +43,13 @@ sections:
       content: |
             Hello! My name is Lee. I'm a first-year natural resources grad student here. I grew up in New Jersey and have spent nearly all of my academic and professional career there, graduating from Rutgers University with a degree in Ecology, Evolution, and Natural Resources in 2017. I have a wide variety of interests in ecology and I'm fortunate to have been able to work in roles that allowed me to explore all of those interests from songbird point counts and banding to assessing forest plant communities, rare plant surveys, fire ecology, and the applications of terrestrial LiDAR. In my spare time I love hiking, mountain biking, and looking for cool plants and birds along the way. I’m still getting to know the California flora, so my favorite plants are from back home in the east, but my favorite forb is _Anemonoides quinquefolia_ and my favorite grass is _Elymus hystrix_.                      
     
-    - title: "Tonia Brito-Bersi (Lab Manager)"
+    - title: "Tonia Brito-Bersi (Lab Manager and GRASS-Net Coordinator)"
       image:
           name: Tonia.jpg
           alt: A photo of Tonia
           style: right
       content: |
-            Hello, my name is Tonia. I use they/them pronouns and I am the lab/field tech for the Luong Lab. I'm passionate about education, dancing and my favorite holiday is Halloween. I grew up not far from Humboldt in the Trinity Alps which is where I learned to love plants. Before moving to Arcata in August 2023, I graduated in 2022 from UC Santa Cruz with my BA in Environmental Studies and Community Studies. During my time there I worked with the Sustainability Office and I wrote my senior thesis on the importance of anti-racism in envrionmental non-profits. I love working with others and meeting new people so if you see me around, feel free to say hi!          
+            Hello, my name is Tonia. I use they/them pronouns and I am the Lab Manager and GRASS-Net Coordinator for the Luong Lab. I'm passionate about education, dancing and my favorite holiday is Halloween. I grew up not far from Humboldt in the Trinity Alps which is where I learned to love plants. Before moving to Arcata in August 2023, I graduated in 2022 from UC Santa Cruz with my BA in Environmental Studies and Community Studies. During my time there I worked with the Sustainability Office and I wrote my senior thesis on the importance of anti-racism in envrionmental non-profits. I love working with others and meeting new people so if you see me around, feel free to say hi!          
 
     - title: "Gabriel Abundis (Lab Assistant and Undergrad Researcher)"
       image:
